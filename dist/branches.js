@@ -29,11 +29,11 @@
   function socialUrl(raw,network){const value=String(raw??'').trim();const direct=externalUrl(value);if(direct){const host=new URL(direct).hostname;if(host===`${network}.com`||host.endsWith(`.${network}.com`))return direct;return null;}const handle=value.replace(/^@/,'');return /^[a-z0-9._]{1,100}$/i.test(handle)?`https://www.${network}.com/${encodeURIComponent(handle)}/`:null;}
   function telephone(raw,country){let digits=raw.replace(/\D/g,'');if(digits.length<6)return null;if(/^\s*\+/.test(raw))return `tel:+${digits}`;if(digits.startsWith('00'))return `tel:+${digits.slice(2)}`;const prefixes={Brasil:'55',Argentina:'54',Chile:'56','Colômbia':'57',Paraguai:'595'};if(country==='Brasil'){if(digits.startsWith('0')&&digits.length>11)digits=digits.slice(1);if(digits.startsWith('55')&&digits.length>=12)return `tel:+${digits}`;if(digits.length===10||digits.length===11)return `tel:+55${digits}`;}if(country!=='Brasil'&&prefixes[country]&&digits.startsWith(prefixes[country])&&digits.length>=10)return `tel:+${digits}`;return `tel:${digits}`;}
   function createCard(branch){
-    const card=element('article','branch');card.dataset.branchId=branch.id;
+    const card=element('article','branch');card.dataset.branchId=branch.id;const body=element('div','branch-body');
     const top=element('div','branch-top');top.append(element('span','tag',headquarters.has(branch.id)?'MATRIZ':'ACADEMIA'),element('span','branch-state',[cityLabel(branch.city),branch.state,branch.country].filter(Boolean).join(' / ')));
-    card.append(top,element('h3','',branch.name));
-    if(branch.teacher)card.append(element('p','branch-teacher',`Prof. ${branch.teacher}`));
-    const address=element('p','branch-address');address.append(document.createTextNode(branch.address),document.createElement('br'),document.createTextNode([branch.neighborhood,cityLabel(branch.city),branch.state].filter(Boolean).join(' · ')));card.append(address);
+    body.append(top,element('h3','',branch.name));
+    if(branch.teacher)body.append(element('p','branch-teacher',`Prof. ${branch.teacher}`));
+    const address=element('p','branch-address');address.append(document.createTextNode(branch.address),document.createElement('br'),document.createTextNode([branch.neighborhood,cityLabel(branch.city),branch.state].filter(Boolean).join(' · ')));body.append(address);
     const details=element('details');const summary=element('summary','','Conheça a unidade ');const plus=element('span','','+');plus.setAttribute('aria-hidden','true');summary.append(plus);details.append(summary);
     const content=element('div','branch-detail');content.append(element('p','','Converse com a academia sobre horários e sua primeira aula.'));
     const seenPhones=new Set();for(const phone of branch.phones??[]){const phoneKey=phone.replace(/\D/g,'');const href=telephone(phone,branch.country);if(href&&!seenPhones.has(phoneKey)){seenPhones.add(phoneKey);content.append(link(`Ligar: ${phone}`,href));}}
@@ -42,7 +42,7 @@
     const instagram=socialUrl(branch.instagram,'instagram')||(/^@/.test(branch.website??'')?socialUrl(branch.website,'instagram'):null);if(instagram&&instagram!==website)content.append(link('Instagram da unidade',instagram));
     const facebook=socialUrl(branch.facebook,'facebook');if(facebook&&facebook!==website)content.append(link('Facebook da unidade',facebook));
     if(branch.website&&!website&&!instagram)content.append(element('p','contact-reference',`Referência informada: ${branch.website}`));
-    details.append(content);card.append(details);return card;
+    details.append(content);body.append(details);if(window.CheckmatBranchGallery)card.append(window.CheckmatBranchGallery.createCover(branch));card.append(body);return card;
   }
   function fillSelect(select,entries,allLabel){const value=select.value;const placeholder=new Option(allLabel,'');select.replaceChildren(placeholder,...entries.map(([key,label])=>new Option(label,key)));select.value=entries.some(([key])=>key===value)?value:'';}
   function updateStateOptions(){const subset=branches.filter(branch=>!countrySelect.value||branch.country===countrySelect.value);const states=[...new Set(subset.map(branch=>branch.state).filter(Boolean))].sort((a,b)=>compare(stateLabel(a),stateLabel(b)));fillSelect(stateSelect,states.map(state=>[state,stateLabel(state)]),'Todos os estados / regiões');}

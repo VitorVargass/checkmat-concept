@@ -1,0 +1,32 @@
+{
+  "syncedAt": "2026-10-08T23:44:17.635Z",
+  "branches": 402,
+  "photoReferences": 913,
+  "availablePhotos": 910,
+  "branchesWithPhotos": 332,
+  "branchesWithoutPhotos": 70,
+  "branchesWithoutReferences": 67,
+  "unavailableReferences": 3,
+  "reused": 910,
+  "optimizedBytes": 98878054,
+  "failuresByReason": {
+    "HTTP 301": 3
+  },
+  "failures": [
+    {
+      "branchId": "418",
+      "sourceUrl": "https://checkmatbrasil.com.br/filial/imagens/academias/5f88e57fa5b5b_1.jpg",
+      "reason": "HTTP 301"
+    },
+    {
+      "branchId": "940",
+      "sourceUrl": "https://checkmatbrasil.com.br/filial/imagens/academias/6a355a2740af0_1.jpeg",
+      "reason": "HTTP 301"
+    },
+    {
+      "branchId": "751",
+      "sourceUrl": "https://checkmatbrasil.com.br/filial/imagens/academias/6758887daefd8_1.jpg",
+      "reason": "HTTP 301"
+    }
+  ]
+}
