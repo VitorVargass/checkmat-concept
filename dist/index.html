@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Checkmat Brasil | Seu próximo nível começa no tatame</title>
+<meta name="description" content="Conheça a Checkmat Brasil. Uma história de jiu-jitsu, disciplina e comunidade. Encontre uma academia e comece sua jornada.">
+<meta name="theme-color" content="#111112">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23111112'/%3E%3Ctext x='16' y='25' text-anchor='middle' font-size='28' fill='white'%3E%E2%99%9F%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+<header class="header">
+ <a class="brand" href="#inicio" aria-label="Checkmat Brasil, início"><img src="assets/checkmat-logo.webp" alt="Checkmat" width="151" height="49"><span>BRASIL</span></a>
+ <button class="menu-toggle" aria-controls="navigation" aria-expanded="false"><span>Menu</span><svg width="22" height="20" viewBox="0 0 22 20" aria-hidden="true"><path d="M1 5h20M1 15h20" stroke="currentColor" stroke-width="2"/></svg></button>
+ <nav id="navigation" aria-label="Navegação principal"><a href="#manifesto">A equipe</a><a href="#treinos">Seu treino</a><a href="#academias">Academias</a><a class="nav-cta" href="#academias">Comece a treinar</a></nav>
+</header>
+<main id="conteudo">
+<section class="hero" id="inicio" aria-labelledby="hero-title">
+ <img class="hero-photo" src="assets/training.jpg" alt="Alunos da Checkmat reunidos no tatame durante uma demonstração de jiu-jitsu" fetchpriority="high" width="1920" height="1280">
+ <div class="hero-shade"></div>
+ <div class="hero-content"><p class="eyebrow"><span class="red-rule"></span> CHECKMAT BRASIL / JIU-JITSU</p>
+ <h1 id="hero-title">O SEU<br>PRÓXIMO<br><span class="outline">NÍVEL.</span></h1>
+ <p class="hero-copy">Você traz a vontade.<br>A gente constrói o caminho, juntos.</p>
+ <div class="hero-actions"><a class="button red" href="#academias">Encontre sua academia</a><a class="text-link" href="#manifesto">Conheça a equipe</a></div>
+ </div>
+ <div class="hero-caption"><span>NO TATAME, TODOS OS DIAS.</span><span>DISCIPLINA · TÉCNICA · RESPEITO</span></div>
+ <div class="hero-bottom"><div><strong>2008</strong><span>O início da nossa história</span></div><div><strong>UMA EQUIPE.</strong><span>Diferentes jornadas. O mesmo propósito.</span></div><a href="#manifesto" class="explore">EXPLORE A CHECKMAT</a></div>
+</section>
+<div class="ticker" aria-hidden="true"><span>JIU-JITSU É PARA A VIDA.</span><span class="ticker-cross">✦</span><span>JUNTOS SOMOS MAIS FORTES.</span><span class="ticker-cross">✦</span><span>JIU-JITSU É PARA A VIDA.</span></div>
+<section class="manifesto section" id="manifesto" aria-labelledby="manifesto-title">
+ <div class="section-kicker">01 / NOSSA ESSÊNCIA</div>
+ <div class="manifesto-heading"><h2 id="manifesto-title">MAIS QUE UMA EQUIPE.<br><span>UM LUGAR PARA EVOLUIR.</span></h2><p>Fundada em 2008 por Léo Vieira, junto de seus irmãos e alunos, a Checkmat cresce com quem entra no tatame. Técnica, disciplina e uma comunidade que caminha com você.</p></div><div class="story-grid"><figure class="team-photo"><img src="assets/team.jpg" alt="Integrantes da Checkmat Fight Zone reunidos no tatame no Rio de Janeiro" width="960" height="719" loading="lazy"><figcaption>FIGHT ZONE / RIO DE JANEIRO</figcaption></figure><div class="values"><p class="eyebrow">O QUE NOS MOVE</p><div class="value"><span>01</span><div><h3>RESPEITO.</h3><p>Ao professor, aos parceiros e ao seu próprio caminho.</p></div></div><div class="value"><span>02</span><div><h3>DISCIPLINA.</h3><p>A evolução acontece no treino de cada dia.</p></div></div><div class="value"><span>03</span><div><h3>COMUNIDADE.</h3><p>A gente cresce quando cresce junto.</p></div></div></div></div>
+</section>
+<section class="training section" id="treinos" aria-labelledby="training-title">
+ <div class="section-kicker">02 / CADA JORNADA TEM UM COMEÇO</div>
+ <div class="section-heading"><h2 id="training-title">O SEU RITMO.<br>A NOSSA <span>DEDICAÇÃO.</span></h2><p>Do primeiro contato com o kimono ao próximo desafio. Há sempre algo novo para aprender.</p></div>
+ <div class="training-tabs" role="tablist" aria-label="Seu momento no jiu-jitsu"><button id="tab-beginner" role="tab" aria-selected="true" aria-controls="training-panel" data-level="beginner" tabindex="0"><span>01</span> Estou começando</button><button id="tab-practice" role="tab" aria-selected="false" aria-controls="training-panel" data-level="practice" tabindex="-1"><span>02</span> Já treino</button><button id="tab-compete" role="tab" aria-selected="false" aria-controls="training-panel" data-level="compete" tabindex="-1"><span>03</span> Quero competir</button></div>
+ <div id="training-panel" class="training-panel" role="tabpanel" aria-labelledby="tab-beginner" tabindex="0"><div class="training-intro"><p class="eyebrow" id="training-label">PRIMEIROS PASSOS</p><h3 id="training-subtitle">TODO FAIXA-PRETA<br>JÁ FOI INICIANTE.</h3><p id="training-copy">Você não precisa chegar sabendo. Conheça o tatame, entenda os fundamentos e construa confiança a cada treino.</p><a href="#academias" class="button red">Encontre onde começar</a></div><ol class="training-points" id="training-points"><li><span>01</span><div><h4>Aprenda a base</h4><p>Posições, movimentos e os princípios do jiu-jitsu.</p></div></li><li><span>02</span><div><h4>Evolua no seu tempo</h4><p>Consistência vale mais do que pressa.</p></div></li><li><span>03</span><div><h4>Treine acompanhado</h4><p>Professor e parceiros fazem parte do caminho.</p></div></li></ol></div>
+</section>
+<section class="academies section" id="academias" aria-labelledby="academy-title">
+ <div class="section-kicker">03 / ENCONTRE SEU TATAME</div>
+ <div class="section-heading"><h2 id="academy-title">SEU PRIMEIRO PASSO<br>COMEÇA <span>AQUI.</span></h2><p>Escolha sua cidade e conheça uma das nossas matrizes.</p></div>
+ <form class="search" id="academy-search" role="search"><div class="search-input"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 5 5" stroke="currentColor" stroke-width="1.8"/></svg><label class="sr-only" for="city">Cidade, bairro ou academia</label><input id="city" name="city" type="search" placeholder="Cidade, bairro ou academia" autocomplete="off"></div><div class="state-select"><label class="sr-only" for="state">Estado</label><select name="state" id="state"><option value="">Todos os estados</option><option value="PR">Paraná</option><option value="RJ">Rio de Janeiro</option></select></div><button type="submit" class="button red">Buscar academia</button></form>
+ <div class="results-heading"><p id="result-count" role="status" aria-live="polite">2 academias encontradas</p><button class="reset" type="button" id="reset-search" hidden>Limpar filtros</button></div>
+ <div class="branch-grid">
+  <article class="branch" data-state="PR" data-search="Curitiba Água Verde Equipe 1 Sebastian Lalli Paraná"><div class="branch-top"><span class="tag">MATRIZ</span><span class="branch-state">CURITIBA / PR</span></div><h3>EQUIPE 1</h3><p class="branch-teacher">Prof. Sebastian Lalli</p><p class="branch-address">Rua Santa Catarina, 33<br>Água Verde · Curitiba, PR</p><details><summary>Conheça a unidade <span aria-hidden="true">+</span></summary><div class="branch-detail"><p>Converse com a academia sobre horários e sua primeira aula.</p><a href="tel:+554133432520">Ligar: (41) 3343-2520</a><a href="https://www.google.com/maps/search/?api=1&query=Rua+Santa+Catarina+33+Agua+Verde+Curitiba+PR" target="_blank" rel="noopener noreferrer">Ver localização no mapa</a><a href="https://www.jiujitsucuritiba.com" target="_blank" rel="noopener noreferrer">Visitar site da unidade</a></div></details></article>
+  <article class="branch" data-state="RJ" data-search="Rio de Janeiro Copacabana Fight Zone Rico Vieira RJ"><div class="branch-top"><span class="tag">MATRIZ</span><span class="branch-state">RIO DE JANEIRO / RJ</span></div><h3>FIGHT ZONE</h3><p class="branch-teacher">Prof. Rico Vieira</p><p class="branch-address">Rua Francisco Sá, 36<br>Rio de Janeiro, RJ</p><details><summary>Conheça a unidade <span aria-hidden="true">+</span></summary><div class="branch-detail"><p>Converse com a academia sobre horários e sua primeira aula.</p><a href="tel:+552121467980">Ligar: (21) 2146-7980</a><a href="https://www.google.com/maps/search/?api=1&query=Rua+Francisco+Sa+36+Rio+de+Janeiro+RJ" target="_blank" rel="noopener noreferrer">Ver localização no mapa</a><a href="https://www.facebook.com/fightzonerj" target="_blank" rel="noopener noreferrer">Conhecer a unidade</a></div></details></article>
+ </div><div class="empty" id="empty-results" hidden><h3>Ainda não encontramos essa cidade.</h3><p>Veja as matrizes disponíveis em Curitiba e no Rio de Janeiro.</p><button class="button dark" id="show-all" type="button">Ver todas as academias</button></div>
+</section>
+<section class="closing"><p class="eyebrow">O PRÓXIMO CAPÍTULO É SEU.</p><h2>TE VEJO<br>NO <span>TATAME.</span></h2><a href="#academias" class="button white">Encontre sua academia</a><span class="closing-mark" aria-hidden="true">CHECKMAT</span></section>
+</main>
+<footer class="footer"><a class="brand" href="#inicio" aria-label="Voltar ao início"><img src="assets/checkmat-logo.webp" alt="Checkmat" width="151" height="49"><span>BRASIL</span></a><p>Jiu-jitsu. Disciplina. Comunidade.</p><a href="https://www.instagram.com/checkmat_equipe1/" target="_blank" rel="noopener noreferrer">Instagram</a><span class="footer-bottom">CHECKMAT BRASIL © 2026</span></footer>
+</body></html>
