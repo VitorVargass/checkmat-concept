@@ -1,0 +1,17 @@
+{
+  "reportedTotal": 404,
+  "importedCount": 402,
+  "byCountry": {
+    "Argentina": 7,
+    "Brasil": 385,
+    "Chile": 5,
+    "Colômbia": 1,
+    "Paraguai": 4
+  },
+  "cityQueries": 252,
+  "requests": 295,
+  "repeatedIds": 0,
+  "missingName": 0,
+  "missingCity": 0,
+  "missingAddress": 0
+}

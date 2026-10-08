@@ -1,0 +1,6548 @@
+{
+  "source": "https://checkmatbrasil.com.br/checkmat/",
+  "retrievedAt": "2026-10-08T21:19:21.307Z",
+  "reportedTotal": 404,
+  "count": 402,
+  "countries": [
+    "Argentina",
+    "Brasil",
+    "Chile",
+    "Colômbia",
+    "Paraguai"
+  ],
+  "branches": [
+    {
+      "id": "870",
+      "name": "Checkmat Local BJJ",
+      "teacher": "Guillermo Ezequiel Ubeda",
+      "phones": [
+        "54 9 362 422-0092",
+        "54 9 362 486-6407"
+      ],
+      "website": "@Local_bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Julio E Acosta N°15-",
+      "neighborhood": "Chaco",
+      "city": "Resistencia",
+      "country": "Argentina",
+      "state": "ARG"
+    },
+    {
+      "id": "929",
+      "name": "Checkmat Axis",
+      "teacher": "Masso Manuel Sebastian",
+      "phones": [
+        "+54 62 412-7855"
+      ],
+      "website": "@axis_jiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Jose Alsina, 145",
+      "neighborhood": "Centro",
+      "city": "Resistência",
+      "country": "Argentina",
+      "state": "Chaco"
+    },
+    {
+      "id": "791",
+      "name": "Checkmat Goya",
+      "teacher": "Alejandro Hernan Alvarez",
+      "phones": [
+        "9 3777 81-2350"
+      ],
+      "website": "@checkmatgoya",
+      "facebook": "",
+      "instagram": "",
+      "address": "Cruce de Avenida José Jacinto Rolón e Calle Luis Agote",
+      "neighborhood": "Zona Centro",
+      "city": "Cidade de Goya",
+      "country": "Argentina",
+      "state": "Provincia de Corrientes"
+    },
+    {
+      "id": "84",
+      "name": "Checkmat Fight Club Gym",
+      "teacher": "Kevin Joel Moro",
+      "phones": [
+        "+54 362 439-9595"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Franklin 56 - Club Hindu",
+      "neighborhood": "",
+      "city": "Resistencia - Chaco",
+      "country": "Argentina",
+      "state": "Resistencia - Chaco"
+    },
+    {
+      "id": "431",
+      "name": "Checkmat Salta",
+      "teacher": "Marco Leila",
+      "phones": [
+        "+54 9 3872 14-1514"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Urquiza 1850",
+      "neighborhood": "Centro",
+      "city": "Salta",
+      "country": "Argentina",
+      "state": "Salta"
+    },
+    {
+      "id": "167",
+      "name": "Checkmat Jujuy",
+      "teacher": "Thiago Cesar Quyen Cao",
+      "phones": [
+        "+54 (0388)4255029"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Calle Zurita, 165",
+      "neighborhood": "San Pedrito",
+      "city": "Jujuy",
+      "country": "Argentina",
+      "state": "San Salvador de Jujuy"
+    },
+    {
+      "id": "432",
+      "name": "Checkmat Tucuman",
+      "teacher": "Sergio Gustavo Andriani",
+      "phones": [
+        "+54 3815446288"
+      ],
+      "website": "@checkmat_tucuman",
+      "facebook": "",
+      "instagram": "",
+      "address": "Pasaje Irigoyen, 862",
+      "neighborhood": "Centro",
+      "city": "San Miguel de Tucuman",
+      "country": "Argentina",
+      "state": "Tucuman"
+    },
+    {
+      "id": "938",
+      "name": "Checkmat Canaã - Projeto Social",
+      "teacher": "Daniel Nascimento Martins / Renan Ladislau Silva",
+      "phones": [
+        "(82)993733858",
+        "(82)996836978"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Pôrto Calvo, 300",
+      "neighborhood": "Canaã",
+      "city": "Maceió",
+      "country": "Brasil",
+      "state": "AL"
+    },
+    {
+      "id": "945",
+      "name": "Checkmat Jatiúca",
+      "teacher": "Daniel Nascimento Martins / Márcio de Oliveira Ribeiro",
+      "phones": [],
+      "website": "@checkmatjatiuca",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Artagnan Martins Reis, Nº 10, Galeria Esquina 10",
+      "neighborhood": "Jatiuca",
+      "city": "Maceió",
+      "country": "Brasil",
+      "state": "AL"
+    },
+    {
+      "id": "587",
+      "name": "Checkmat Penedo AL",
+      "teacher": "Fernando Freitas de Souza",
+      "phones": [
+        "79998697067"
+      ],
+      "website": "@jiujitsuprogressive",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Gaspar Vieira de Melo,56.",
+      "neighborhood": "Santa Luzia",
+      "city": "Penedo",
+      "country": "Brasil",
+      "state": "AL"
+    },
+    {
+      "id": "398",
+      "name": "Checkmat Manaus Dojô",
+      "teacher": "Alexandre Magno Ramalho Xavier",
+      "phones": [
+        "92 99112 1991"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Joaquim nabuco 2092 altos / 69020031",
+      "neighborhood": "Centro",
+      "city": "Manaus",
+      "country": "Brasil",
+      "state": "AM"
+    },
+    {
+      "id": "916",
+      "name": "Checkmat Força Apice",
+      "teacher": "Rildo Souza Gama",
+      "phones": [
+        "91993862913"
+      ],
+      "website": "@forcaapice_matriz",
+      "facebook": "",
+      "instagram": "",
+      "address": "Endereço: Rua Edi 1407",
+      "neighborhood": "Renascer",
+      "city": "Amapá",
+      "country": "Brasil",
+      "state": "AP"
+    },
+    {
+      "id": "673",
+      "name": "Checkmat Alagoinhas",
+      "teacher": "Caio Alvanniê Conceição Caetano",
+      "phones": [
+        "(75)99965-1272",
+        "(75)99873-5957"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Paulo Afonso, 402",
+      "neighborhood": "Kennedy",
+      "city": "Alagoinhas",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "881",
+      "name": "Checkmat Jaime Calheiros Jiu-Jitsu",
+      "teacher": "Jaime Costa Calheiros",
+      "phones": [
+        "75 997118632"
+      ],
+      "website": "@teamr8287",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Benício Pereira, n50 - Centro",
+      "neighborhood": "Centro",
+      "city": "Banzae",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "869",
+      "name": "Checkmat Abrantes",
+      "teacher": "Rafael Passos Fernandes",
+      "phones": [
+        "(71) 9 9129-9278"
+      ],
+      "website": "@Rafaelpass0s",
+      "facebook": "",
+      "instagram": "",
+      "address": "Loteamento Parque São Jorge, S/N",
+      "neighborhood": "Catu de Abrantes",
+      "city": "Camaçari",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "660",
+      "name": "Checkmat Jacuípe",
+      "teacher": "Eliseu Silva Pereira",
+      "phones": [
+        "71-996062705"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua boa esperança s/n",
+      "neighborhood": "Barra de Jacuípe",
+      "city": "Camaçari",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "737",
+      "name": "Checkmat Oliveira Jiu-Jitsu",
+      "teacher": "Robson Conceição de Oliveira",
+      "phones": [
+        "(71) 997271152"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Filogonio Gomes de Oliveira, 110",
+      "neighborhood": "Barra do Pojuca",
+      "city": "Camaçari",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "906",
+      "name": "Checkmat Vitor Pimentel",
+      "teacher": "João Vitor da Conceição Pimentel",
+      "phones": [
+        "71 991306071",
+        "71 999667140"
+      ],
+      "website": "@vitorpimenteljj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua jaçana. 4E",
+      "neighborhood": "Vila de Abrantes",
+      "city": "Camaçari",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "501",
+      "name": "Checkmat Academia Free Hand",
+      "teacher": "Rauan de Sá homem Del Rey",
+      "phones": [
+        "73981249907"
+      ],
+      "website": "@academyfreehand",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 4,Clube sizinio",
+      "neighborhood": "Jardim pontal",
+      "city": "Ilheus",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "863",
+      "name": "Checkmat Adriano Damasio TEAM",
+      "teacher": "Adriano Silva Damasio",
+      "phones": [
+        "(71) 9 8788-2275"
+      ],
+      "website": "@adrianodamasiobjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Zulmira Santos, 110 - Próx. ao Restaurante Piaçaba",
+      "neighborhood": "São Vicente",
+      "city": "Ituberá",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "649",
+      "name": "Checkmat CT Rangel Team",
+      "teacher": "Leonardo Matos Rangel",
+      "phones": [
+        "(73) 98879-8473"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Dr. Eliezer Souza Santos",
+      "neighborhood": "Jequiezinho",
+      "city": "Jequié",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "894",
+      "name": "Checkmat HNT",
+      "teacher": "Honorino Freitas de Souza Neto",
+      "phones": [
+        "(73) 9 8839-1964"
+      ],
+      "website": "https://www.instagram.com/hnt_jj?igsh=MXVrY29",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Professora Virgínia Ribeiro, 962",
+      "neighborhood": "Jequiezinho",
+      "city": "Jequié",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "955",
+      "name": "Checkmat Buraquinho",
+      "teacher": "José Vinicius Costa e Vanessa Santana Araújo",
+      "phones": [
+        "71 99270-1841",
+        "71 99696-3597"
+      ],
+      "website": "@ativnucleo",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Francisco das Merces, 43 - Edificio Prime Center",
+      "neighborhood": "Buraquinho",
+      "city": "Lauro de freitas",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "287",
+      "name": "Checkmat Vilas do Atlântico",
+      "teacher": "Enock Albuquerque Neto",
+      "phones": [
+        "(71) 993656564"
+      ],
+      "website": "instagram:@checkmatvilasdoatlantico",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Praia do Mucuripe,",
+      "neighborhood": "Vilas Tenis Clube",
+      "city": "Lauro de Freitas",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "544",
+      "name": "Checkmat M S P",
+      "teacher": "Daniel Volpe",
+      "phones": [
+        "75 981724077"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Primeira praia",
+      "neighborhood": "Centro",
+      "city": "Morro de São Paulo",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "954",
+      "name": "Checkmat Chapada",
+      "teacher": "Moises Miranda de Oliveira Marques",
+      "phones": [
+        "(71) 99259-1089"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Benjamin Constant, 51",
+      "neighborhood": "Centro",
+      "city": "Palmeiras",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "648",
+      "name": "Checkmat Márcio Jacare",
+      "teacher": "Márcio Fabrício Fernandes da Paixão",
+      "phones": [
+        "73 988058023"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Bahia s/n",
+      "neighborhood": "Mundai",
+      "city": "Porto Seguro",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "345",
+      "name": "Checkmat Armação",
+      "teacher": "Leonardo Andrade Santos Laiola",
+      "phones": [
+        "(71) 98762-8779"
+      ],
+      "website": "WWW.TEAMLAIOLA.COM.BR",
+      "facebook": "",
+      "instagram": "",
+      "address": "Clube 2004 Bahia- AV. Otavio Mongabeira, 4099",
+      "neighborhood": "Armação",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "683",
+      "name": "Checkmat Centro de Treinamento Rantamys",
+      "teacher": "Fabio Estrellado De Magalhães e Gustavo Oliveira",
+      "phones": [
+        "(71) 99178-6614"
+      ],
+      "website": "https://www.instagram.com/checkmat_vilalaurab",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Laura Costa, 171",
+      "neighborhood": "Vila Laura",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "951",
+      "name": "Checkmat Federação",
+      "teacher": "Pablo Almeida Passos",
+      "phones": [
+        "(71) 98833-0832",
+        "(71) 98833-0833"
+      ],
+      "website": "@teampablopassos",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Dr Galdino Magalhães Ribeiro",
+      "neighborhood": "Federação",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "645",
+      "name": "Checkmat FR jiu-jitsu",
+      "teacher": "Felipe Rangel da Silva",
+      "phones": [
+        "71 99160-5522"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cosme de Farias, n 65",
+      "neighborhood": "Cosme de Farias",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "935",
+      "name": "Checkmat Lucas Araújo",
+      "teacher": "Lucas Conceição Araújo",
+      "phones": [
+        "(71) 99339-2892"
+      ],
+      "website": "@checkmatlucasaraujo",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Arnaldo Lopes da Silva, 66 - Empresarial Santa Rita de Cássia, 3 Andar, Sala 301",
+      "neighborhood": "Stiep",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "812",
+      "name": "Checkmat Matatu",
+      "teacher": "Reginaldo de Souza Santana Junior",
+      "phones": [
+        "71984612901"
+      ],
+      "website": "@juniorsouzasbjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua dos bandeirantes , 129",
+      "neighborhood": "Matatu",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "875",
+      "name": "Checkmat Nova Brasília",
+      "teacher": "Gustavo Assis de Oliveira",
+      "phones": [
+        "(71) 9 9714-5580",
+        "(71) 9 9908-1947"
+      ],
+      "website": "Checkmat_novabrasilia",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Aliomar Baleeiro, 417",
+      "neighborhood": "Nova Brasília",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "424",
+      "name": "Checkmat Stella Maris",
+      "teacher": "Lucas da Silva Oliveira e Rafael de Souza Santana",
+      "phones": [
+        "(71) 99177-5665",
+        "(71) 99161-0586"
+      ],
+      "website": "@checkmat.stellamaris",
+      "facebook": "",
+      "instagram": "",
+      "address": "Alameda Dilson Jatahy Fonseca, 30",
+      "neighborhood": "Stella Maris",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "857",
+      "name": "Checkmat Villa Laura",
+      "teacher": "Gustavo Assis de Oliveira",
+      "phones": [
+        "(71) 9 8800-8129",
+        "(71) 9 9908-1947"
+      ],
+      "website": "@Checkmat_villalaura",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Laura Costa 170,",
+      "neighborhood": "Villa Laura",
+      "city": "Salvador",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "274",
+      "name": "Checkmat CT Spartan",
+      "teacher": "Caio Luís Dias Santos",
+      "phones": [
+        "75 32453576",
+        "75991237870"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua engenheiro Vasco filho 79",
+      "neighborhood": "Centro",
+      "city": "Santo Estevão",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "762",
+      "name": "Checkmat Xandão Team",
+      "teacher": "Alexandre Souza de Jesus",
+      "phones": [
+        "(75) 999836250",
+        "(75) 99976-7763"
+      ],
+      "website": "@alexandre_brazilianjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Paulo VI , 772",
+      "neighborhood": "Centro",
+      "city": "Seabra",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "521",
+      "name": "Checkmat Manter Podium",
+      "teacher": "José Carlos dos Santos e Rodrigo Capistrano",
+      "phones": [
+        "75 991423315"
+      ],
+      "website": "https://www.instagram.com/p/CTkegf8Aq2T/?utm_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Arthur Machado n50",
+      "neighborhood": "Vaquejada",
+      "city": "Serrinha",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "826",
+      "name": "Checkmat Valença",
+      "teacher": "João Paulo Araújo Soares",
+      "phones": [
+        "(75) 9 8836-7292"
+      ],
+      "website": "@checkmatvalenca",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. ACM, 335",
+      "neighborhood": "São Felix",
+      "city": "Valença",
+      "country": "Brasil",
+      "state": "BA"
+    },
+    {
+      "id": "745",
+      "name": "Checkmat Fa Jiu-Jitsu",
+      "teacher": "Francisco Antônio Dias Sales",
+      "phones": [
+        "(88) 997319331",
+        "(88) 9 9731-9331"
+      ],
+      "website": "@fadsalles @checkmatacarau",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Vigário Xavier, 528",
+      "neighborhood": "Outra Banda",
+      "city": "Acaraú",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "496",
+      "name": "Checkmat BV Fight Team",
+      "teacher": "Carlielson Torcate Batista e Allan Veras Rodrigues",
+      "phones": [
+        "(88) 99670-0567"
+      ],
+      "website": "https://instagram.com/jiujitsubv?utm_medium=c",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua José Carlos da Silva, 74.",
+      "neighborhood": "Bairro de Fátima.",
+      "city": "Boa Viagem",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "550",
+      "name": "Checkmat Dojo Silva Team",
+      "teacher": "Stênio da Silva Gomes",
+      "phones": [
+        "(88) 99266-9636"
+      ],
+      "website": "https://instagram.com/dojosilvateam",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua General Sampaio, n° 377",
+      "neighborhood": "Centro",
+      "city": "Camocim",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "696",
+      "name": "Checkmat Dojô Cova dos Leões",
+      "teacher": "Antonio Alberto Silva Souza e Albercyo Guedes",
+      "phones": [
+        "85985682223"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Travessa Hercilio Martins, 201",
+      "neighborhood": "Bela Vista",
+      "city": "Canindé",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "290",
+      "name": "Checkmat Ricardo Pereira Team",
+      "teacher": "Ricardo Pereira de Souza",
+      "phones": [
+        "(85) 98806-4269"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Otávio Felíciano de Souza, 3030; CEP: 62850-000",
+      "neighborhood": "Bessalandia",
+      "city": "Cascavel",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "704",
+      "name": "Checkmat Caucaia CE",
+      "teacher": "José Eufrásio de Castro Pereira",
+      "phones": [
+        "(85) 9 9713-0860"
+      ],
+      "website": "je.recarga@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Dom Almeida Lustosa, 1321",
+      "neighborhood": "Grande Jurema",
+      "city": "Caucaia",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "807",
+      "name": "Checkmat CT Alex Barros",
+      "teacher": "Alexandre Barros Farias",
+      "phones": [
+        "(85) 99448-5725",
+        "(85) 99270-1840"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Jerusalém, 78",
+      "neighborhood": "Tabuba",
+      "city": "Caucaia",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "748",
+      "name": "Checkmat CT. OLIVEIRA LIMA",
+      "teacher": "Analia Maria Graça de Oliveira",
+      "phones": [
+        "(85) 9 8425-7284"
+      ],
+      "website": "ct.oliveiralimaa",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Quatro, n°55 - Conjunto Habitacional Boa Esperança",
+      "neighborhood": "Icaraí",
+      "city": "Caucaia",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "707",
+      "name": "Checkmat Espaço L.J.",
+      "teacher": "Leydiane Sousa Parque Albano",
+      "phones": [
+        "(85) 98786-0198"
+      ],
+      "website": "@leydiane_sousa",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Olavo Bilac, 2690",
+      "neighborhood": "Parque Albano",
+      "city": "Caucaia",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "803",
+      "name": "Checkmat Kadma - Até Última Flecha",
+      "teacher": "Jonathans Ribeiro de Araújo",
+      "phones": [
+        "(88) 98164-6861"
+      ],
+      "website": "@checkmatpreaoficial",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Maria das Graças de Carvalho, 12",
+      "neighborhood": "Centro",
+      "city": "Cruz",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "866",
+      "name": "Checkmat AGTEAM",
+      "teacher": "Agacy de Oliveira Gomes",
+      "phones": [
+        "(85) 988829704",
+        "(85) 996189331"
+      ],
+      "website": "@agteam_bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua XX Número: 160",
+      "neighborhood": "Quintino Cunha",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "548",
+      "name": "Checkmat Arfit Academia",
+      "teacher": "Paulo César Aguiar (Ceguim)",
+      "phones": [
+        "(85) 98170-5248"
+      ],
+      "website": "www.instagram.com/paulimbjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Santos Dumont, 5753- Torre Saúde - andar L",
+      "neighborhood": "Papicu",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "915",
+      "name": "Checkmat Base Forte Jiu Jitsu",
+      "teacher": "Rafael Gomes Sampaio",
+      "phones": [
+        "85-999664361"
+      ],
+      "website": "@basefortebjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Jorge dummar 2078",
+      "neighborhood": "Montese",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "443",
+      "name": "Checkmat C.T Jaula do Urso",
+      "teacher": "Leandro Silva de Lacerda",
+      "phones": [
+        "(85) 99771-5013"
+      ],
+      "website": "@ct.jauladourso",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Srg. Barbosa, 211",
+      "neighborhood": "Granja Lisboa,",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "282",
+      "name": "Checkmat C.T. Ronaldo Cruz Raspinha",
+      "teacher": "Ronaldo Cruz de Oliveira (Raspa)",
+      "phones": [
+        "(85) 98528-4151"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "60320-250 / Rua Coronel Mozart Gondim - 1294A",
+      "neighborhood": "São Gerardo",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "531",
+      "name": "Checkmat Centro de Treinamento André Vitor",
+      "teacher": "André Vitor Gonçalves (Militão)",
+      "phones": [
+        "85 99715832"
+      ],
+      "website": "https://instagram.com/c.t.andrevitor",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Francisco Mendes de Oliveira 973",
+      "neighborhood": "Olavo Oliveira",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "858",
+      "name": "Checkmat Centro de Treinamento War Zone",
+      "teacher": "Juan Souza Gadelha",
+      "phones": [
+        "(85) 9 9601-9437"
+      ],
+      "website": "@ct_war_zone",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. A, 665",
+      "neighborhood": "Conj Ceara",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "444",
+      "name": "Checkmat CXJJ Team",
+      "teacher": "Cyrio Xavier Martins de Araújo",
+      "phones": [
+        "(85) 98563-2347"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Amadeu Furtado, 452 C",
+      "neighborhood": "Parquelândia",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "498",
+      "name": "Checkmat Dojô George Guerra",
+      "teacher": "George de Araújo Holanda Guerra",
+      "phones": [
+        "(85) 98883.4074"
+      ],
+      "website": "https://instagram.com/guerrageorge?utm_medium",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua coronel Mozart Gondim, 1294 A",
+      "neighborhood": "São Gerardo",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "842",
+      "name": "Checkmat Flex Gym - Walter Brener",
+      "teacher": "Walter Brener Soares de Oliveira",
+      "phones": [
+        "(85) 987749611",
+        "(85) 9734-3033"
+      ],
+      "website": "@acflexgym",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Einstein, 1880",
+      "neighborhood": "Parque São José",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "283",
+      "name": "Checkmat Flow Artes Marciais",
+      "teacher": "Bergue Silva Pereira",
+      "phones": [
+        "(85) 99706-3232"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Visc. de Icó, 821",
+      "neighborhood": "Vila Ellery",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "590",
+      "name": "Checkmat Iuri Marinho",
+      "teacher": "Francisco Iuri Torres Marinho Mourão",
+      "phones": [
+        "85 997980830"
+      ],
+      "website": "https://instagram.com/imteamjj?igshid=YmMyMTA",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Cearenses, 423 Fortaleza",
+      "neighborhood": "Presidente Kennedy",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "934",
+      "name": "Checkmat Messejana",
+      "teacher": "Francisco Eliezer Pereira do Nascimento",
+      "phones": [
+        "(85) 98179-2950"
+      ],
+      "website": "Handori Dojo",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua K, 50 - Messejana",
+      "neighborhood": "CJ João Paulo II",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "943",
+      "name": "Checkmat NE BJJ",
+      "teacher": "Marcio Pinheiro Nogueira",
+      "phones": [
+        "(85) 99618-0170"
+      ],
+      "website": "@ne.bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Holanda, 1857",
+      "neighborhood": "Jardim Cearense",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "281",
+      "name": "Checkmat Projeto Semear J.A.",
+      "teacher": "Carlos Darley Nogueira do Nascimento",
+      "phones": [
+        "(85) 98520-5086"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Delmiro de Farias, s/n (praça do bairro Jardim América)",
+      "neighborhood": "Jardim América",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "720",
+      "name": "Checkmat Resistência",
+      "teacher": "Hailton Maia da Silva Júnior",
+      "phones": [
+        "(85) 98601-1615"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua José pedra, 1426",
+      "neighborhood": "Parque 2 Irmãos",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "429",
+      "name": "Checkmat Horizonte CE",
+      "teacher": "Lucinaldo Timótio dos Santos",
+      "phones": [
+        "(85) 99259-0740",
+        "(85) 99222-5756"
+      ],
+      "website": "@checkmathorizonte",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Iracilda Pinheiro 45",
+      "neighborhood": "Diadema",
+      "city": "Horizonte",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "855",
+      "name": "Checkmat Centro de Treinamento Robison Santos",
+      "teacher": "Robison de Oliveira Santos",
+      "phones": [
+        "(88) 9 9913-1807"
+      ],
+      "website": "@ctrobisonsantos",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Benjamim Constant, 1036 - Ao lado da Policlínica",
+      "neighborhood": "Novo Centro",
+      "city": "Icó",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "776",
+      "name": "Checkmat Icó-Ce",
+      "teacher": "Moisés Lima de Araújo",
+      "phones": [
+        "(88) 9 9671-6119"
+      ],
+      "website": "@moisessarau",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Pe Vieira S/N - Na academia Complexo Bio",
+      "neighborhood": "Centro",
+      "city": "Icó",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "497",
+      "name": "Checkmat CT Manoel Firmo",
+      "teacher": "Francisco Ediney Gomes Rodrigues",
+      "phones": [
+        "(85) 99231-5353"
+      ],
+      "website": "https://instagram.com/ediney_bjj?utm_medium=c",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Ester Carneiro Braga, N°1396",
+      "neighborhood": "Bairro Padre Lima",
+      "city": "Itapajé",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "808",
+      "name": "Checkmat FGJJTEAM",
+      "teacher": "Farley Guia de Souza",
+      "phones": [
+        "(88) 9 9224-5956"
+      ],
+      "website": "@farleyguia",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Vicente Siebra, 2425",
+      "neighborhood": "Violete",
+      "city": "Itapipoca",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "610",
+      "name": "Checkmat Projeto Social Faprecri",
+      "teacher": "Francisco Eremides Cacau de Lima",
+      "phones": [
+        "(88) 98218-1855",
+        "(88) 98195-0303"
+      ],
+      "website": "@faprecri",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cristo Redentor, 2499",
+      "neighborhood": "Violete",
+      "city": "Itapipoca",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "680",
+      "name": "Checkmat Estúdio Vida",
+      "teacher": "Felipe Viana Araujo e Jonatas de Oliveira Lopes",
+      "phones": [
+        "(88) 9 8156 3221"
+      ],
+      "website": "https://instagram.com/felipevianastudiovida?",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cônego Mizael, 250",
+      "neighborhood": "Santa Luzia",
+      "city": "Limoeiro do Norte",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "723",
+      "name": "Checkmat - Orós",
+      "teacher": "Negreiros Neto",
+      "phones": [
+        "(88) 9 9678-5759"
+      ],
+      "website": "@neto_negreiros_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Gabriel Bezerra, 113",
+      "neighborhood": "Centro",
+      "city": "Orós",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "507",
+      "name": "Checkmat Paraipaba CE",
+      "teacher": "João Martins Barbosa Filho",
+      "phones": [
+        "(85) 99977-1301"
+      ],
+      "website": "https://instagram.com/joaofilho_personal?utm_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Antônio Euzébio 167",
+      "neighborhood": "Centro",
+      "city": "Paraipaba",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "914",
+      "name": "Checkmat Rebeca Yasmin Jiu jitsu",
+      "teacher": "Rebeca Yasmin Sousa de Oliveira",
+      "phones": [
+        "85987532210"
+      ],
+      "website": "@rebecayasmin_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Capitão Inácio Prata 1420",
+      "neighborhood": "Distrito Taíba",
+      "city": "São Gonçalo do Amarante",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "865",
+      "name": "Checkmat Fire Academy",
+      "teacher": "José Pedro Armando Albuquerque Ribeiro de Lima",
+      "phones": [
+        "(88) 9 9967-3236"
+      ],
+      "website": "@fire_academy_jiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Doutor Arimateia Monte e Silva, 715 - Ponto Comercial",
+      "neighborhood": "Centro",
+      "city": "Sobral",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "492",
+      "name": "Checkmat Tabuleiro do Norte",
+      "teacher": "Samuel Neto Malveira Sombra",
+      "phones": [
+        "(88) 99665-9034"
+      ],
+      "website": "https://instagram.com/samuelmalveira?utm_medi",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Manoel Franklin, 4484",
+      "neighborhood": "Centro",
+      "city": "Tabuleiro do Norte",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "910",
+      "name": "Checkmat RM TEAM",
+      "teacher": "Emanuel Roberth Jackson Marques Sales",
+      "phones": [
+        "85994223864"
+      ],
+      "website": "https://www.instagram.com/_r.m_team?igsh=ODM0",
+      "facebook": "",
+      "instagram": "",
+      "address": "Advogado José porfirio Sampaio Galpão",
+      "neighborhood": "Alto da Paz",
+      "city": "Tururu",
+      "country": "Brasil",
+      "state": "CE"
+    },
+    {
+      "id": "402",
+      "name": "Checkmat Academia Corpo Arte",
+      "teacher": "Romulo de Abreu Custódio",
+      "phones": [
+        "(61)991247858"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "QE 26 conjunto L loja 39",
+      "neighborhood": "Guará II",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "388",
+      "name": "Checkmat Academia Equilíbrio e Movimento",
+      "teacher": "Rodrigo Max Tiemann Carvalho",
+      "phones": [
+        "061 9980-11646"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Qms 35 casa07",
+      "neighborhood": "sobradinho DF",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "178",
+      "name": "Checkmat Guará CT Covil Carpaneda",
+      "teacher": "Igor Francisco Ramos Carpaneda",
+      "phones": [
+        "(61) 98332-7476"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "QE 04, CONJUNTO H, LOJA 174",
+      "neighborhood": "Guara I",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "846",
+      "name": "Checkmat MQV Asa Norte",
+      "teacher": "Raphael Tavares dos Santos",
+      "phones": [
+        "061 9620-5601"
+      ],
+      "website": "@mqvasanorte",
+      "facebook": "",
+      "instagram": "",
+      "address": "CLN 305 Loja 6 Sub Solo Bloco B",
+      "neighborhood": "Asa Norte",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "640",
+      "name": "Checkmat Bluefit",
+      "teacher": "Paulo Henrique Corrêa Rasi e Antonio Augusto Moreira de Souza",
+      "phones": [
+        "(61) 995581871"
+      ],
+      "website": "http://www.bluefit.com.br/unidade/sudoeste",
+      "facebook": "",
+      "instagram": "",
+      "address": "Setor Indústrias Gráficas, Quadra 08",
+      "neighborhood": "Zona Industrial",
+      "city": "Brasília",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "671",
+      "name": "Checkmat Estúdio Magalhães",
+      "teacher": "Ailson Magalhães Xavier Oliveira",
+      "phones": [
+        "6134850698",
+        "61994129678"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "qms55a casa 55",
+      "neighborhood": "Sobradinho 2",
+      "city": "Brasília",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "269",
+      "name": "Checkmat Just Training",
+      "teacher": "Henrique Nelson de Lima",
+      "phones": [
+        "61982782900"
+      ],
+      "website": "henriquelimajj@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Clube Nipo, Avenida L4 sul, trecho 1",
+      "neighborhood": "Lago Sul",
+      "city": "Brasília",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "946",
+      "name": "Checkmat Rios",
+      "teacher": "Leandro Filipe Macedo Rios",
+      "phones": [
+        "(61) 99998-5551"
+      ],
+      "website": "riosbjj.ofc | riosbjj.oficial",
+      "facebook": "",
+      "instagram": "",
+      "address": "QNN 24 Conjunto G, 45",
+      "neighborhood": "Ceilândia Norte",
+      "city": "Brasília",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "207",
+      "name": "Checkmat Gama",
+      "teacher": "Fabiano Januario Dias",
+      "phones": [
+        "(61) 3703-2996",
+        "61985813615"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Setor Industrial QI 1 Lote 1640 - Gama Leste, Brasília - DF, 72445-010",
+      "neighborhood": "setor leste gama DF",
+      "city": "Gama",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "629",
+      "name": "Checkmat Progressive Jiu Jitsu",
+      "teacher": "Brener Ferreira de Souza",
+      "phones": [
+        "(61) 99971-2420"
+      ],
+      "website": "brenerferreira_bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "avenida Bahia quadra 75 lote 14",
+      "neighborhood": "setor tradicional",
+      "city": "Planaltina",
+      "country": "Brasil",
+      "state": "DF"
+    },
+    {
+      "id": "931",
+      "name": "Checkmat Barba Jiu Jitsu",
+      "teacher": "Edeilton Silva Pereira",
+      "phones": [
+        "(27)99740-6967"
+      ],
+      "website": "@barbajjchrckmat",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Carlos Castro, 419 - Braço do Rio",
+      "neighborhood": "Centro",
+      "city": "Conceição da Barra",
+      "country": "Brasil",
+      "state": "ES"
+    },
+    {
+      "id": "771",
+      "name": "Checkmat Maroca jiu-jitsu",
+      "teacher": "Mário Henrique Silva Mourão",
+      "phones": [
+        "38 999372436"
+      ],
+      "website": "@checkmat.conceicaodabarra",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. José Carlos Castro, 113",
+      "neighborhood": "Centro",
+      "city": "Conceição da Barra",
+      "country": "Brasil",
+      "state": "ES"
+    },
+    {
+      "id": "688",
+      "name": "Checkmat Hupp Hed Team",
+      "teacher": "Gutier Marcarini Pinto",
+      "phones": [
+        "(27)998862091",
+        "+55 27 99769-4088"
+      ],
+      "website": "@huppteam",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Aldemar Ceritti, N 476,",
+      "neighborhood": "Bairro Irmã Tereza.",
+      "city": "Jaguaré",
+      "country": "Brasil",
+      "state": "ES"
+    },
+    {
+      "id": "338",
+      "name": "Checkmat São Mateus Sernanby",
+      "teacher": "Marcos Paulo Lopes da Silva Serra",
+      "phones": [
+        "(27) 998042827"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua da Liberdade 848",
+      "neighborhood": "Sernanby",
+      "city": "São Mateus",
+      "country": "Brasil",
+      "state": "ES"
+    },
+    {
+      "id": "560",
+      "name": "Checkmat Guzzo Jiu-jítsu",
+      "teacher": "Ricardo Gripa Guzzo",
+      "phones": [
+        "27997994100"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av PetrópolisN° 504",
+      "neighborhood": "Barcelona",
+      "city": "Serra",
+      "country": "Brasil",
+      "state": "ES"
+    },
+    {
+      "id": "509",
+      "name": "Checkmat MFC",
+      "teacher": "Jonathas Menezes do Couto Neto (Monteiro)",
+      "phones": [
+        "27 997504092"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Almerinda Corina da Silva (encima da padaria moinho de Itália)",
+      "neighborhood": "Jardim Camburi",
+      "city": "Vitória",
+      "country": "Brasil",
+      "state": "ES"
+    },
+    {
+      "id": "944",
+      "name": "Checkmat Brandão Team",
+      "teacher": "Cristian Abreu da Silva Brandão",
+      "phones": [
+        "(61) 998084878"
+      ],
+      "website": "Brand�o Team BJJ",
+      "facebook": "",
+      "instagram": "",
+      "address": "SQ 11 Quadra 06 Lote 33",
+      "neighborhood": "Centro",
+      "city": "Cidade Ocidental",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "312",
+      "name": "Checkmat MQV Lutas",
+      "teacher": "Jakson Joaquim de Oliveira, Natália Oliveira e Anderson Matias, Rafael Alves e Diogo Osama",
+      "phones": [
+        "61 981745036"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Santa Luzia N.355",
+      "neighborhood": "Centro",
+      "city": "Formosa",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "849",
+      "name": "Checkmat MQV Túlio Vaz",
+      "teacher": "Eric Samuel Gomes da Silva",
+      "phones": [
+        "(61) 999196432"
+      ],
+      "website": "https://www.instagram.com/tuliovazacademia",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Veridiana de Castro, 151",
+      "neighborhood": "California",
+      "city": "Formosa",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "735",
+      "name": "Checkmat DMJJ",
+      "teacher": "Dione Santos de Melo",
+      "phones": [
+        "62 991444597"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua do Xaréu QUADRA 14 LOTE 37",
+      "neighborhood": "Jardim atlântico",
+      "city": "Goiânia",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "918",
+      "name": "Checkmat Fight 365",
+      "teacher": "Douglas Aparecido de Melo",
+      "phones": [
+        "(62) 98629-8886"
+      ],
+      "website": "@ctfight365",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Jaciara, SN - Qd09 Lt17",
+      "neighborhood": "Vila Verdes Mares 2",
+      "city": "Goianira",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "651",
+      "name": "Checkmat Planaltina Goiás",
+      "teacher": "Ritchely Barbosa Souto Sousa",
+      "phones": [
+        "(61) 9 9975-7636"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Quadra 01 MR 07 - Lote 06",
+      "neighborhood": "Leste",
+      "city": "Planaltina",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "917",
+      "name": "Checkmat Samurai Escola de Jiu Jitsu",
+      "teacher": "Murilo Nogueira Cardoso",
+      "phones": [
+        "62995458106"
+      ],
+      "website": "@samuraiejj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. JK, Qd.07, Lt.01sala 08",
+      "neighborhood": "Setor Augusto José Valente II",
+      "city": "Posse",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "642",
+      "name": "Checkmat IAM CT/Escola Jiu-Jitsu",
+      "teacher": "Roberto Moreira da Silva e Evans Napoli",
+      "phones": [
+        "62981815827",
+        "62 986069811"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Artulina / Quadra 6 - Lote 09/10",
+      "neighborhood": "Vila Bonsucesso",
+      "city": "Senador Canedo",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "792",
+      "name": "CheckMat Céu Azul",
+      "teacher": "Elismar dos Santos Porto",
+      "phones": [
+        "6199554 4048"
+      ],
+      "website": "Ct G�lgota GymBox",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 71 Quadra 106 lote 20",
+      "neighborhood": "Céu Azul",
+      "city": "Valparaiso de Goiás",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "753",
+      "name": "Checkmat Valparaíso de Goiás",
+      "teacher": "Guilherme de Lima Alves",
+      "phones": [
+        "(61) 99438-2855"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Quadra 18 lote 28 (Fundos)",
+      "neighborhood": "Etapa A",
+      "city": "Valparaiso de Goiás",
+      "country": "Brasil",
+      "state": "GO"
+    },
+    {
+      "id": "581",
+      "name": "Checkmat Chapadinha MA",
+      "teacher": "Leandro Farias Lima",
+      "phones": [
+        "(98) 3471-2707",
+        "(98) 9 8439-3716"
+      ],
+      "website": "@checkmatcha",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 24 de Agosto",
+      "neighborhood": "Centro",
+      "city": "Chapadinha",
+      "country": "Brasil",
+      "state": "MA"
+    },
+    {
+      "id": "188",
+      "name": "Checkmat São Luis MA",
+      "teacher": "Carlos Manoel Cutrim Santos",
+      "phones": [
+        "98991166228",
+        "98991901818"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Antares, 812 - loja 12",
+      "neighborhood": "Recanto Vinhais",
+      "city": "São Luis",
+      "country": "Brasil",
+      "state": "MA"
+    },
+    {
+      "id": "947",
+      "name": "Checkmat Albertina",
+      "teacher": "Cristian Eduardo Soares dos Santos",
+      "phones": [
+        "(35) 99765-1913"
+      ],
+      "website": "@checkmat_albertina",
+      "facebook": "",
+      "instagram": "",
+      "address": "Luiz Ferrari, 778",
+      "neighborhood": "Santa Clara",
+      "city": "Albertina",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "907",
+      "name": "Checkmat Escola de Jiu-Jitsu de Andrelândia",
+      "teacher": "Diego Gomes de Oliveira",
+      "phones": [
+        "35 9186-3538",
+        "35 991287160"
+      ],
+      "website": "@andrelandia_bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua gabriel Ribeiro Salgado, 354",
+      "neighborhood": "Centro",
+      "city": "Andrelândia",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "750",
+      "name": "Checkmat Betim MG",
+      "teacher": "Uendel Jorge de Jesus Oliveira",
+      "phones": [
+        "(31) 99740-4476"
+      ],
+      "website": "bbzaobjj.oliveira@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Angélica, 412",
+      "neighborhood": "Jardim Alterosa",
+      "city": "Betim",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "848",
+      "name": "Checkmat Caetanópolis",
+      "teacher": "Giovane Rodrigues Resende",
+      "phones": [
+        "(31) 9 9919-8273"
+      ],
+      "website": "@checkmatpedrabrutactn",
+      "facebook": "",
+      "instagram": "",
+      "address": "ua Quintiliano Mascarenhas, 265 B",
+      "neighborhood": "Nossa Senhora das Graças",
+      "city": "Caetanópolis",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "905",
+      "name": "Checkmat Campo Belo",
+      "teacher": "Enio Santos Bernardes",
+      "phones": [
+        "(35) 99816-1718"
+      ],
+      "website": "@checmat_eniobernardes_cb",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Padre Vicente Rodrigues da Costa, 222",
+      "neighborhood": "Vila São Jorge Nova",
+      "city": "Campo Belo",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "921",
+      "name": "Checkmat Gorillaz",
+      "teacher": "Rafael Pereira Chagas",
+      "phones": [
+        "(35) 9 9730-4130"
+      ],
+      "website": "@Checkmat_cb",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cesário Alvim, 305 C - Andar Superior",
+      "neighborhood": "Centro",
+      "city": "Campo Belo",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "746",
+      "name": "Checkmat CT Cherem Fight Team.",
+      "teacher": "Carlos Alexandre Souza Santos e Caio Pichi",
+      "phones": [
+        "(34) 99817-5989"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Lázaro Florentino Mota, 685",
+      "neighborhood": "Centro",
+      "city": "Conceição das Alagoas",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "510",
+      "name": "Checkmat Transcend (UNIP)",
+      "teacher": "Tarcísio Ribeiro Silva Cirino",
+      "phones": [
+        "35 34352170",
+        "11957717177"
+      ],
+      "website": "@transcend_tc (instagram)",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Maestro Benedito Coutinho 28",
+      "neighborhood": "Centro",
+      "city": "EXTREMA",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "856",
+      "name": "CHECKMAT JACUTINGA",
+      "teacher": "Edmar Aparecido de Freitas",
+      "phones": [
+        "(35) 991303026"
+      ],
+      "website": "@edmar Freitas �rika",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Clemente Cataldi, 443",
+      "neighborhood": "Centro",
+      "city": "Jacutinga",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "932",
+      "name": "Checkmat Lambari MG",
+      "teacher": "Frederico Gonçalves Martins",
+      "phones": [
+        "(35)99706-0577"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Manoel Viola Neto, 53",
+      "neighborhood": "Lake City 2",
+      "city": "Lambari",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "337",
+      "name": "Checkmat Fight Clube",
+      "teacher": "Daniel Xavier Borges",
+      "phones": [
+        "(35)992700168"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av padre Deoh",
+      "neighborhood": "Centro",
+      "city": "LAVRAS",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "373",
+      "name": "Checkmat Ouro Fino",
+      "teacher": "Michel Alberti e Instrutora Camila",
+      "phones": [
+        "(35) 9 8823-5913",
+        "(35) 9 9847-3010"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Senador Júlio Brandão, 330",
+      "neighborhood": "Centro",
+      "city": "Ouro Fino",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "216",
+      "name": "Checkmat Q G PEDRA BRUTA",
+      "teacher": "Giovane Rodrigues Resende",
+      "phones": [
+        "037 3523 -2302",
+        "9991-98273"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Raul Campos, 544",
+      "neighborhood": "Centro",
+      "city": "Pompeu",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "911",
+      "name": "Checkmat Rodrigo Chicarino Jiu Jitsu RC Jiu Jitsu",
+      "teacher": "Rodrigo Chicarino Gomes",
+      "phones": [
+        "(021)983749559"
+      ],
+      "website": "@rodrigochicarinoo",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rodovia MG-010, 1361 - LOJA 04",
+      "neighborhood": "Centro",
+      "city": "Serra do Cipó - Santana do Riacho",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "789",
+      "name": "Checkmat Três Pontas",
+      "teacher": "Josué Victor da Silva",
+      "phones": [
+        "(35) 9 9826-0656"
+      ],
+      "website": "@Associacao_Trespontana_Bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Irene Tiso Veiga, 42 - Barracão",
+      "neighborhood": "São benedito",
+      "city": "Três Pontas",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "777",
+      "name": "Checkmat Academia Blend",
+      "teacher": "Max William Selvati Silva",
+      "phones": [
+        "(35) 3221-5238",
+        "(35) 9 8801-3655"
+      ],
+      "website": "@Academia _Blend",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua presidente Arthur Bernardes, 271",
+      "neighborhood": "Vila Pinto",
+      "city": "Varginha",
+      "country": "Brasil",
+      "state": "MG"
+    },
+    {
+      "id": "868",
+      "name": "Checkmat Bataguassu",
+      "teacher": "Richard Scalon Felicio Filho",
+      "phones": [
+        "(67) 9 8159-5019"
+      ],
+      "website": "@Richardscalon",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Anair de Souza Thomazini, 55",
+      "neighborhood": "Residencial Modelo 3",
+      "city": "Bataguassu",
+      "country": "Brasil",
+      "state": "MS"
+    },
+    {
+      "id": "618",
+      "name": "Checkmat Campo Grande",
+      "teacher": "Breno Vidal Silva Nunes (Carioca)",
+      "phones": [
+        "(67) 9 9277-5769"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Mato Grosso, 861",
+      "neighborhood": "Centro",
+      "city": "Campo Grande",
+      "country": "Brasil",
+      "state": "MS"
+    },
+    {
+      "id": "821",
+      "name": "Checkmat Iguatemi",
+      "teacher": "Jose Teixeira Lima Junior",
+      "phones": [
+        "67 984737596",
+        "67 991395015"
+      ],
+      "website": "@iguatemijiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Delfina Vera Ledesma esquina com a rua Vitorino Flores",
+      "neighborhood": "Waloszek Konrad",
+      "city": "Iguatemi",
+      "country": "Brasil",
+      "state": "MS"
+    },
+    {
+      "id": "528",
+      "name": "Checkmat Ponta Porã MS",
+      "teacher": "Jonatan Natanael Guedes da Silva / Cristhian Goires",
+      "phones": [
+        "67992828751",
+        "67996751542"
+      ],
+      "website": "https://www.instagram.com/checkmat_pp_ms",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 7 de setembro número 880 sala C",
+      "neighborhood": "Centro",
+      "city": "Ponta Porã",
+      "country": "Brasil",
+      "state": "MS"
+    },
+    {
+      "id": "928",
+      "name": "Checkmat Tacuru MS",
+      "teacher": "Jose Teixeira Lima Junior",
+      "phones": [
+        "(67) 98473-7596"
+      ],
+      "website": "checkmat_tac",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. José Carlos Castro de Alexandria, 471",
+      "neighborhood": "Centro",
+      "city": "Tacuru",
+      "country": "Brasil",
+      "state": "MS"
+    },
+    {
+      "id": "311",
+      "name": "Checkmat Rotan",
+      "teacher": "Victor Vinícius Carvalho Paz e Roderiky Cardoso Ferreira",
+      "phones": [
+        "(65) 98119-6430"
+      ],
+      "website": "https://www.facebook.com/jiujitsurotam/?ref=b",
+      "facebook": "",
+      "instagram": "",
+      "address": "AV: MAJOR GAMA",
+      "neighborhood": "DOM AQUINO",
+      "city": "CUIABÁ",
+      "country": "Brasil",
+      "state": "MT"
+    },
+    {
+      "id": "804",
+      "name": "Checkmat Despertando Talentos",
+      "teacher": "Joílson Almir Schneider Soares",
+      "phones": [
+        "(65) 9 9335-0458"
+      ],
+      "website": "@J.Schneideer",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua das Hortências, 2075 - W",
+      "neighborhood": "Parque dos Ingás",
+      "city": "Nova Mutum",
+      "country": "Brasil",
+      "state": "MT"
+    },
+    {
+      "id": "615",
+      "name": "Checkmat Dragon Fight",
+      "teacher": "Hamilton Xavier Mendes",
+      "phones": [
+        "(66) 99938-4423",
+        "(66) 99964-9205"
+      ],
+      "website": "@jessicayasminmendes",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Juscelino Kubitscheck, 876",
+      "neighborhood": "Castelandia",
+      "city": "Primavera do Leste",
+      "country": "Brasil",
+      "state": "MT"
+    },
+    {
+      "id": "739",
+      "name": "Checkmat Fighter Club",
+      "teacher": "Ronivon Santos - Jefson Fragoso de Melo - Francisco Ademir Claudino Neto",
+      "phones": [
+        "(66) 99964-4307",
+        "(66) 999239672"
+      ],
+      "website": "@fighterclubsorriso",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua São João esquina com Peixoto de Azevedo s/n",
+      "neighborhood": "Village",
+      "city": "Sorriso",
+      "country": "Brasil",
+      "state": "MT"
+    },
+    {
+      "id": "390",
+      "name": "Checkmat Equipe JB",
+      "teacher": "Joel Chagas de Araújo",
+      "phones": [
+        "(91) 98087-1066"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 9 número 27, esquina com a rua 1",
+      "neighborhood": "Fonte Boa",
+      "city": "Castanhal",
+      "country": "Brasil",
+      "state": "PA"
+    },
+    {
+      "id": "912",
+      "name": "Checkmat Aeroclube",
+      "teacher": "Felipe César Ribeiro Dantas",
+      "phones": [
+        "83 99125-7665"
+      ],
+      "website": "@liborioteambjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Doutor Francisco de Assis Camara Dantas 298",
+      "neighborhood": "Aeroclube",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PA"
+    },
+    {
+      "id": "479",
+      "name": "Checkmat Ryu Team",
+      "teacher": "Carlos André Pinheiro de Miranda (Ryu)",
+      "phones": [
+        "91982384444"
+      ],
+      "website": "carlosandre.ca997@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Passagem fé em Deus",
+      "neighborhood": "Novo Horizonte",
+      "city": "marituba",
+      "country": "Brasil",
+      "state": "PA"
+    },
+    {
+      "id": "822",
+      "name": "Checkmat Redenção",
+      "teacher": "Arliton Gonçalves Martins",
+      "phones": [
+        "(094) 99149-7807",
+        "(094) 99249-7807"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 02 quadra 106 lote 01 / fundo do campo sintético do buriti 3",
+      "neighborhood": "Buriti 3",
+      "city": "Redenção",
+      "country": "Brasil",
+      "state": "PA"
+    },
+    {
+      "id": "880",
+      "name": "Checkmat A.M. Combate",
+      "teacher": "Alex Maciel Marreiros",
+      "phones": [
+        "(91) 9 9146-2633"
+      ],
+      "website": "@am_combate",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Damásio de Oliveira, 245 - Em frente a Belly Modas",
+      "neighborhood": "Centro",
+      "city": "Santo Antônio do Tauá",
+      "country": "Brasil",
+      "state": "PA"
+    },
+    {
+      "id": "330",
+      "name": "Checkmat Valentina",
+      "teacher": "Stênio José Santos da Silva E Carlos Alberto Dyckson",
+      "phones": [
+        "(83) 98839-6510"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Dr. Valdevino Gregório de Andrade, 100",
+      "neighborhood": "Valentina Figueredo I",
+      "city": "Joao Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "362",
+      "name": "Checkmat Bessa",
+      "teacher": "Gilberto Medeiros",
+      "phones": [
+        "83996359718"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. José Alfredo Nóbrega 86a",
+      "neighborhood": "Bessa",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "843",
+      "name": "Checkmat Funcionários Tm Team",
+      "teacher": "Edié Fagundes da Silva Júnior",
+      "phones": [
+        "(83) 9 9908-4294"
+      ],
+      "website": "@Checkmat_funcionarios_tmteam",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Tenente Coronel Albertino Francisco dos Santos, 410",
+      "neighborhood": "Funcionários",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "897",
+      "name": "Checkmat Kaizen",
+      "teacher": "Heulyston Mariano da Silva",
+      "phones": [
+        "(83) 99178-1781",
+        "(83) 9 9133-0206"
+      ],
+      "website": "@checkmatkaizen",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Tarcísio Ribeiro da Costa, 06 - Primeiro Andar",
+      "neighborhood": "Alto do Mateus",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "251",
+      "name": "Checkmat Manaira",
+      "teacher": "Marcelo Soares Londres",
+      "phones": [
+        "(83) 98888-8405"
+      ],
+      "website": "www.checkmatmanaira.com.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Nicola Porto N 214",
+      "neighborhood": "Manaira",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "59",
+      "name": "Checkmat TM Team- Geisel",
+      "teacher": "Thyago Oliveira de Sousa Costa Marcolino",
+      "phones": [
+        "(83) 988278044"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Sargento Pedro Gomes de Lira, 510",
+      "neighborhood": "",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "749",
+      "name": "Checkmat Zillo Academia",
+      "teacher": "Gerdeson Gomes de Menezes",
+      "phones": [
+        "(83) 3023-8333",
+        "(83) 98697-2897"
+      ],
+      "website": "@Academiazillo",
+      "facebook": "",
+      "instagram": "",
+      "address": "Elias Pereira de Araujo, N°33",
+      "neighborhood": "Mangabeira",
+      "city": "João Pessoa",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "522",
+      "name": "Checkmat Rio Tinto",
+      "teacher": "Jardson Nascimento de Oliveira França",
+      "phones": [
+        "83996769267"
+      ],
+      "website": "@checkmat_riotinto",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Castro Alves, 230 344",
+      "neighborhood": "Centro",
+      "city": "Rio Tinto",
+      "country": "Brasil",
+      "state": "PB"
+    },
+    {
+      "id": "925",
+      "name": "Checkmat Tamandaré",
+      "teacher": "Alex Victor da Silva",
+      "phones": [
+        "41998249552"
+      ],
+      "website": "@checkmat.tamandare",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Salvador Teixeira de Faria,179",
+      "neighborhood": "Centro",
+      "city": "Almirante Tamandaré",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "909",
+      "name": "Checkmat Quati Jiu Jitsu",
+      "teacher": "Airton Ribeiro Manfrini",
+      "phones": [
+        "43 299950063",
+        "4399500623"
+      ],
+      "website": "manfriniairton@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Munhoz da Rocha 1429",
+      "neighborhood": "centro",
+      "city": "Apucarana",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "802",
+      "name": "Checkmat Arapoti",
+      "teacher": "Walter Leandro Carvalho Pezzo",
+      "phones": [
+        "(43) 9 9963-0815"
+      ],
+      "website": "@checkmat.arapoti",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Telêmaco Carneiro, 894 - Fundos",
+      "neighborhood": "Centro",
+      "city": "Arapoti",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "800",
+      "name": "Checkmat República Fight",
+      "teacher": "William Lucas da Silva",
+      "phones": [
+        "(47) 9 9780-6113"
+      ],
+      "website": "@republicafight",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Archelau de Almeida Torres, 1888 - Segundo Piso",
+      "neighborhood": "Iguaçu",
+      "city": "Araucária",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "827",
+      "name": "Checkmat Cambé",
+      "teacher": "Roberval Damião Viturino de Souza",
+      "phones": [
+        "(44) 99879-3872",
+        "(43) 99955-5600"
+      ],
+      "website": "@saroberval1975",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Belo Horizonte, 1453",
+      "neighborhood": "Centro",
+      "city": "Cambé",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "621",
+      "name": "Checkmat Campina Grande do Sul",
+      "teacher": "Jean Paulo Gonçalves Ferreira",
+      "phones": [
+        "041 995149025"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R Sebastião Leandro Rocha, 364",
+      "neighborhood": "Eugênia Maria",
+      "city": "Campina Grande do Sul",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "927",
+      "name": "Checkmat Garagem Jiu Jitsu",
+      "teacher": "Natanael Miranda Amaro",
+      "phones": [
+        "(41) 987199907"
+      ],
+      "website": "@Garagemjj.1517",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Dr João Cândido 478",
+      "neighborhood": "Centro",
+      "city": "Campina Grande do Sul",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "585",
+      "name": "Checkmat ABMT Escola de Lutas",
+      "teacher": "Fred B.Weber e Erick R.de Campos",
+      "phones": [
+        "(41) 99163-1077",
+        "41995053538"
+      ],
+      "website": "https://www.facebook.com/checkmat.abmt",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Dom Pedro ||, 90",
+      "neighborhood": "Itaqui",
+      "city": "Campo Largo",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "301",
+      "name": "Checkmat ABMT Vip Sport",
+      "teacher": "Fred B. Weber, Bryan Hansen e Emerson Hansen.",
+      "phones": [
+        "(41) 3292-7262",
+        "(41) 99505-3538"
+      ],
+      "website": "https://www.facebook.com/checkmat.abmt",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua XV de Novmebro, 2873",
+      "neighborhood": "Centro",
+      "city": "Campo Largo",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "23",
+      "name": "Checkmat Campo Largo",
+      "teacher": "Paulo Roberto Batista",
+      "phones": [
+        "(41) 3399-1599",
+        "(41) 99744-9831"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Padre Natal Pigatto, 645",
+      "neighborhood": "Vila Bancária",
+      "city": "Campo Largo",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "403",
+      "name": "Checkmat Campo Magro",
+      "teacher": "Bernardo Henrique dos Santos",
+      "phones": [
+        "41997874407",
+        "41999230336"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Maranhão 49",
+      "neighborhood": "Jd Cecília",
+      "city": "Campo magro",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "614",
+      "name": "Checkmat Dojo Dragon",
+      "teacher": "Allan Cristian da Silva",
+      "phones": [
+        "41992296637"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Narcisos, 401 sobreloja",
+      "neighborhood": "Jd. Boa Vista",
+      "city": "Campo Magro",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "215",
+      "name": "Checkmat Academia Corpus Wellness",
+      "teacher": "Sérgio Ávila",
+      "phones": [
+        "(42) 3232-0086"
+      ],
+      "website": "academiacorpuswellness.com.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua do Rosário, 33",
+      "neighborhood": "Centro",
+      "city": "Castro",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "900",
+      "name": "CHECKMAT CASTRO",
+      "teacher": "Walter Leandro Carvalho Pezzo",
+      "phones": [
+        "43999630815"
+      ],
+      "website": "@checkmat.castro",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Viscondi do Rio Branco Número: 319",
+      "neighborhood": "Centro",
+      "city": "Castro",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "701",
+      "name": "Checkmat Cerro Azul",
+      "teacher": "Ronaldo Ferreira",
+      "phones": [
+        "43996040429",
+        "47999772463"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Romário Martins",
+      "neighborhood": "Centro",
+      "city": "Cerro azul",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "933",
+      "name": "Checkmat Malta",
+      "teacher": "Alisson Rodrigo Ribeiro",
+      "phones": [
+        "(41)99537-0574"
+      ],
+      "website": "@corpoativoacademias",
+      "facebook": "",
+      "instagram": "",
+      "address": "André Woss, 251",
+      "neighborhood": "Campo Pequeno",
+      "city": "Colombo",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "315",
+      "name": "Checkmat Maracanã Colombo",
+      "teacher": "Leandro dos Santos (Laco)",
+      "phones": [
+        "(41) 99524-6697"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Joaquim Rocha 122",
+      "neighborhood": "Maracanã",
+      "city": "Colombo",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "543",
+      "name": "Checkmat Cornélio Procópio",
+      "teacher": "Diego de Souza Jandozo",
+      "phones": [
+        "43996446064"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Emílio de Menezes",
+      "neighborhood": "Centro",
+      "city": "Cornélio Procópio",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "458",
+      "name": "Checkmat - Cachoeira Projeto Kalahari",
+      "teacher": "Welton Loureiro",
+      "phones": [
+        "41984194703"
+      ],
+      "website": "@kalahari.ong.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Anita Garibaldi, 2395",
+      "neighborhood": "São Lourenço",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "658",
+      "name": "Checkmat ABMT Hugo Lange",
+      "teacher": "Fred B. Weber e Gastão Oliveira Junior",
+      "phones": [
+        "(41) 9 9139-1717",
+        "(41) 9 9121-8645"
+      ],
+      "website": "https://www.facebook.com/checkmat.abmt",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Augusto Stresser, 1767 - Sobreloja",
+      "neighborhood": "Hugo Lange",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "647",
+      "name": "Checkmat Academia A.Trainer",
+      "teacher": "Alexandro Galdino Pereira",
+      "phones": [
+        "4130850977",
+        "4199120318"
+      ],
+      "website": "www.academiaatrainer.com.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Augusto Basso N,28",
+      "neighborhood": "Pilarzinho",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "850",
+      "name": "Checkmat Academia Extreme Team",
+      "teacher": "Rickson Marlon Fagundes",
+      "phones": [
+        "41 99762-9090"
+      ],
+      "website": "@academiaextremeteam",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Dr. Bley Zornig , 823",
+      "neighborhood": "Boqueirão",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "734",
+      "name": "Checkmat Amanda Moreira BJJ",
+      "teacher": "Amanda da Silva Moreira de Faria da Silva",
+      "phones": [
+        "41 997458971"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Emerico Eduardo Singer, 420",
+      "neighborhood": "Pinheirinho",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "784",
+      "name": "Checkmat Bacacheri Academia 4 Fitness",
+      "teacher": "Marcos Antônio Ferreira",
+      "phones": [
+        "41 32035224",
+        "419 96648455"
+      ],
+      "website": "@marcos_sissi",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Estados Unidos, 687",
+      "neighborhood": "Bacacheri",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "714",
+      "name": "Checkmat Baldassari",
+      "teacher": "Leonardo Baldassari",
+      "phones": [
+        "(41) 98419 -1972"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Fulvio José Alice, 419",
+      "neighborhood": "Bairro Alto",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "267",
+      "name": "Checkmat Black Gym Academia",
+      "teacher": "Gesiel Miranda",
+      "phones": [
+        "41 3308-6242",
+        "41 99506-3164"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "João Dembinski, 2793",
+      "neighborhood": "Cidade industrial",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "689",
+      "name": "Checkmat CIA ATHLETICA CURITIBA",
+      "teacher": "Francielli Terna",
+      "phones": [
+        "413241-5000"
+      ],
+      "website": "http://www.ciaathletica.com.br/",
+      "facebook": "",
+      "instagram": "",
+      "address": "rua prof Pedro Viriato Parigot de Souza, 600",
+      "neighborhood": "Mossunguê",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "15",
+      "name": "Checkmat Corpo e Alma",
+      "teacher": "Jeizon Aparecido de Faria Golden",
+      "phones": [
+        "(41) 3088-8277",
+        "(41) 98897-1339"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cidade de Goioerê, 481",
+      "neighborhood": "Alto Boqueirão",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "78",
+      "name": "Checkmat CT Noguchi",
+      "teacher": "Gilmar Dutra Lima",
+      "phones": [
+        "(41) 3015-3993"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Marechal Floriano Peixoto, 498",
+      "neighborhood": "Centro",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "594",
+      "name": "Checkmat Eduardo Carrera",
+      "teacher": "Eduardo Carrera Tod Prates",
+      "phones": [
+        "41996301662"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Raquel prado 333",
+      "neighborhood": "Mercês",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "11",
+      "name": "Checkmat Garage Team BJJ",
+      "teacher": "Cesar Bonassoli",
+      "phones": [
+        "(041) 99912-0871"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João Cubas, 251",
+      "neighborhood": "Novo Mundo",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "16",
+      "name": "CheckMat HQ Brazil",
+      "teacher": "Sebastian Lalli",
+      "phones": [
+        "(41) 3343-2520",
+        "(41) 3045-2515"
+      ],
+      "website": "www.jiujitsucuritiba.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Rio Grande do Norte 2616",
+      "neighborhood": "Guaira",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "644",
+      "name": "Checkmat JIU+Lab",
+      "teacher": "Diogo Del Nero Santos",
+      "phones": [
+        "41 - 998693446"
+      ],
+      "website": "https://www.instagram.com/jiu_lab/",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Benvindo Valente 280",
+      "neighborhood": "São Francisco",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "876",
+      "name": "Checkmat Matozo Jiu-Jitsu",
+      "teacher": "Jose Miguel Matozo",
+      "phones": [
+        "(41) 3585-4318",
+        "(41) 9 9186-2446"
+      ],
+      "website": "Matozo.Jose",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua: Howell Lewis Fry, 87 - Casa",
+      "neighborhood": "Cachoeira",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "782",
+      "name": "Checkmat Paulista",
+      "teacher": "Tiago Florindo da Silva",
+      "phones": [
+        "(41) 9 9976-1209"
+      ],
+      "website": "@Checkmatpaulista",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Jorge Camargo Ramos, 396",
+      "neighborhood": "Mauá",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "930",
+      "name": "Checkmat Phil Team",
+      "teacher": "Philippe Gustavo do Nascimento Miranda",
+      "phones": [
+        "(41)99522-9652",
+        "(41) 99991-9394"
+      ],
+      "website": "@checkmat.philteam",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Francisco Nunes, 1290",
+      "neighborhood": "Prado Velho",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "814",
+      "name": "Checkmat Projeto Social Jiu-Jitsu Pela Vida",
+      "teacher": "Marcos Paulo Knaut",
+      "phones": [
+        "(41) 99797-2646"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Estrada do Ganchinho, 480",
+      "neighborhood": "Umbará",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "726",
+      "name": "Checkmat Projeto Social Kyrios Jiu-jitsu",
+      "teacher": "Renê Nunes",
+      "phones": [
+        "(41) 9 8487-7572"
+      ],
+      "website": "@Renedonnely",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Francisco Derosso, 2340",
+      "neighborhood": "Xaxim",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "871",
+      "name": "Checkmat SakaBJJ",
+      "teacher": "Andrei Sakamoto Mayer",
+      "phones": [
+        "(41) 9 9829-8605"
+      ],
+      "website": "@SakaBjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Sebastião Alves Ferreira, 2897",
+      "neighborhood": "Bairro Alto",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "845",
+      "name": "Checkmat Santa Fé Team",
+      "teacher": "Marcelo Henrique Martins",
+      "phones": [
+        "41985077174"
+      ],
+      "website": "@ctsantafe_team",
+      "facebook": "",
+      "instagram": "",
+      "address": "Br 116 linha verde, número 17547",
+      "neighborhood": "Xaxim",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "794",
+      "name": "Checkmat Simioni Team",
+      "teacher": "Davi Rocha",
+      "phones": [
+        "(41) 99727-0483"
+      ],
+      "website": "@simioniteam_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João Dembinki, 1091",
+      "neighborhood": "Campo Comprido",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "742",
+      "name": "Checkmat Tambosi Judo e Jiu-Jitsu",
+      "teacher": "Bruno Henrique da Silva Tambosi",
+      "phones": [
+        "41 99719-0812"
+      ],
+      "website": "@judo_tambosi",
+      "facebook": "",
+      "instagram": "",
+      "address": "Fanny Bertoldi, 410",
+      "neighborhood": "Campo de Santana - Tatuquara",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "695",
+      "name": "Checkmat Team Caio Matuto",
+      "teacher": "Caio Cezar Ferreira Silva",
+      "phones": [
+        "(41) 99841-7981"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Marcos Antônio Malucelli, 630",
+      "neighborhood": "Caiuá",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "316",
+      "name": "Checkmat Urso",
+      "teacher": "Francis Maurer",
+      "phones": [
+        "41 996582615"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "av marechal floriano Peixoto, 7725",
+      "neighborhood": "Boqueirão",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "703",
+      "name": "Checkmat Vagner Shrek Jiu-jitsu",
+      "teacher": "Vagner de Oliveira Benedito",
+      "phones": [
+        "(41) 9 9924-4306"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Santana do Itararé, 272",
+      "neighborhood": "Sítio Cercado",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "859",
+      "name": "Checkmat Xperience Portão",
+      "teacher": "Irwing Leonardo Romero Machado",
+      "phones": [
+        "(41) 99950-0434"
+      ],
+      "website": "@Xperienceportao",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Eng. Heitor Soares Gomes, 479 - Sala 1A",
+      "neighborhood": "Portão",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "74",
+      "name": "Checkmat Xperience Sports Center",
+      "teacher": "Irwing Leonardo Romero Machado",
+      "phones": [
+        "(41) 93013-7809"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 24 de Maio, 640",
+      "neighborhood": "Centro",
+      "city": "Curitiba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "605",
+      "name": "Checkmat Existência Escola de Jiu-Jitsu",
+      "teacher": "Raphael Alves do Nascimento",
+      "phones": [
+        "41998084189"
+      ],
+      "website": "INSTAGRAM: EXISTENCIAJIUJITSU",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Vereador Oswaldo Nascimento Bittencourt, 546",
+      "neighborhood": "XAXIM",
+      "city": "CURITIBA",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "717",
+      "name": "Checkmat Chipper Brasil",
+      "teacher": "Carlos Alberto Barbosa",
+      "phones": [
+        "(43) 9 8803-6339"
+      ],
+      "website": "@Chipperbr",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua São Paulo, 516",
+      "neighborhood": "Centro",
+      "city": "Faxinal",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "741",
+      "name": "Checkmat CT Bauab",
+      "teacher": "Leonardo Carlos Bauab",
+      "phones": [
+        "41 995991425"
+      ],
+      "website": "@checkmat_frg",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Tomaz Edison De Andrade Vieira, 491",
+      "neighborhood": "Eucaliptos",
+      "city": "Fazenda Rio Grande",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "591",
+      "name": "Checkmat JN centro de treinamento",
+      "teacher": "Jean de Castro Fonseca",
+      "phones": [
+        "92981750686",
+        "43999717186"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "rua timbori 418",
+      "neighborhood": "centro",
+      "city": "FIGUEIRA",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "71",
+      "name": "Checkmat Training & Combat",
+      "teacher": "Cristiano Cubas",
+      "phones": [
+        "(42) 99106-2247",
+        "(42) 99141-4700"
+      ],
+      "website": "https://instagram.com/trainingecombat_checkma",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Sebastião de Camargo Ribas, 1557",
+      "neighborhood": "Bonsucesso",
+      "city": "Guarapuava",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "892",
+      "name": "Checkmat Adaptation Jiu-Jitsu",
+      "teacher": "Heverton Gil",
+      "phones": [
+        "(42) 9 9906-6477"
+      ],
+      "website": "@hevetongilbjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Expedicionário Stanislau Mikuska, 111",
+      "neighborhood": "Loteamento Lagoa Dourada",
+      "city": "Irati",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "324",
+      "name": "Checkmat Dojô Artes Marciais",
+      "teacher": "Diógenes Ferreira Pinto",
+      "phones": [
+        "(42) 99826-9502"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 19 de Dezembro, 645",
+      "neighborhood": "Centro",
+      "city": "Irati",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "634",
+      "name": "Checkmat Studio My Fitness Prime",
+      "teacher": "Moab e Felipe Augusto Cesarino da Silva",
+      "phones": [
+        "43 99800-0013"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Conde Francisco Matarazzo 691",
+      "neighborhood": "Centro",
+      "city": "Jaguariaíva",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "913",
+      "name": "Checkmat CT Gladiadores",
+      "teacher": "Afrânio Bena Praça",
+      "phones": [
+        "43 33389356",
+        "43 998361875"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida das Maritacas 900",
+      "neighborhood": "Parque das indústrias leves",
+      "city": "Londrina",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "520",
+      "name": "Checkmat Londrina",
+      "teacher": "Eduardo Borges Camargo",
+      "phones": [
+        "43 984796143",
+        "43 984369903"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Saul Elkind 1450 sub solo",
+      "neighborhood": "Violin",
+      "city": "Londrina",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "577",
+      "name": "Checkmat Manoel Ribas",
+      "teacher": "Cássio Gonçalves de Paris",
+      "phones": [
+        "42 99900-0778"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Sete de Setembro n° 1548",
+      "neighborhood": "Centro",
+      "city": "Manoel Ribas",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "819",
+      "name": "Checkmat M.C.Rondon",
+      "teacher": "Laercio Laurindo dos Santos",
+      "phones": [
+        "(44) 9 9135-1216"
+      ],
+      "website": "@laerciolaurindo e @bewater",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 7 de Setembro, 2420",
+      "neighborhood": "Alvorada",
+      "city": "Marechal Cândido Rondon",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "755",
+      "name": "Checkmat Conquiste Saúde",
+      "teacher": "Fernando José Barreto",
+      "phones": [
+        "(44)99743-6798"
+      ],
+      "website": "@BJJBARRETO",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av: José Alves Nendo N° 479",
+      "neighborhood": "Conj. Residencial João de Barro",
+      "city": "Maringá",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "214",
+      "name": "Checkmat CONQUISTE SAÚDE - EQUIPE RSTJJ",
+      "teacher": "Rogério Hatore Marques da Silva (Alemao)",
+      "phones": [
+        "44-998150514"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av.JOSÉ ALVES NENDO 479",
+      "neighborhood": "JARDIM SÃO SILVESTRE",
+      "city": "MARINGÁ",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "823",
+      "name": "Checkmat Mariópolis",
+      "teacher": "Paulo Henrique Loyola Martins",
+      "phones": [
+        "(46) 9 9131-7957"
+      ],
+      "website": "@Pag�loyolabjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Alameda 9, N° 1011",
+      "neighborhood": "Centro",
+      "city": "Mariopolis",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "539",
+      "name": "CHECKMAT Pinhais",
+      "teacher": "Igor Martins",
+      "phones": [
+        "41 996568496"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Maringá, 2729",
+      "neighborhood": "Atuba",
+      "city": "Pinhais",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "820",
+      "name": "Checkmat Guarituba",
+      "teacher": "Alexandre Augusto Ferreira Grawe",
+      "phones": [
+        "(41) 9 9772-8757",
+        "(41) 9 8875-1477"
+      ],
+      "website": "@checkmatguarituba",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Hebert Trapp, 312 - Loja 2",
+      "neighborhood": "Guarituba",
+      "city": "Piraquara",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "851",
+      "name": "Checkmat Piraquara",
+      "teacher": "Fabrício Rocha dos Santos",
+      "phones": [
+        "41 9 92352895"
+      ],
+      "website": "@checkmat_piraquara",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Paranaguá , 141",
+      "neighborhood": "Araçatuba",
+      "city": "Piraquara",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "484",
+      "name": "Checkmat Valtinho Wolter Jiu Jitsu",
+      "teacher": "Valter Wolter Lisboa",
+      "phones": [
+        "(42) 99822-2195",
+        "(42) 99999-8798"
+      ],
+      "website": "@checkmatpgvaltinhobjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Medeiros de Albuquerque, 386",
+      "neighborhood": "Oficinas",
+      "city": "Ponta Grossa",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "840",
+      "name": "Checkmat Pontal do Paraná",
+      "teacher": "Carlos Alberto Modesto Rodrigues",
+      "phones": [
+        "(41) 9 9112-7557"
+      ],
+      "website": "@Checkmatpontal",
+      "facebook": "",
+      "instagram": "",
+      "address": "PR 412, Nº 3182 - Primeiro Andar - Sala Em cima do Mercado Grandes Rios",
+      "neighborhood": "Balneário Porto Fino",
+      "city": "Pontal do Paraná",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "810",
+      "name": "CheckMat Prudentópolis",
+      "teacher": "Leonardo Rodrigo Hekavei",
+      "phones": [
+        "42999297728"
+      ],
+      "website": "@checkmat.prudentopolis",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua dos Mendes, 984",
+      "neighborhood": "Centro",
+      "city": "Prudentopolis",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "884",
+      "name": "Checkmat A Forja Jiu-Jítsu",
+      "teacher": "Cleverson Pereira Pontes",
+      "phones": [
+        "(41) 9 8805-2130"
+      ],
+      "website": "https://www.instagram.com/espaco_esportivo_a_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua José Valdemar Baron, 441",
+      "neighborhood": "Jardim Patrícia",
+      "city": "Quatro Barras",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "558",
+      "name": "Checkmat Reserva do Iguaçu PR",
+      "teacher": "Humberto Varela de Souza",
+      "phones": [
+        "(42) 98811-0909",
+        "(42) 98811-0908"
+      ],
+      "website": "@checkmat_Reserva_do_Iguacu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 7 de setembro",
+      "neighborhood": "Centro",
+      "city": "Reserva do Iguaçu",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "839",
+      "name": "Checkmat Dojo Pegasus",
+      "teacher": "Aristeu Cubas Machado",
+      "phones": [
+        "(41) 9 8501-1984"
+      ],
+      "website": "@Checkmat_pegasus",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Senador Souza Naves, 133",
+      "neighborhood": "Três Marias",
+      "city": "São José dos Pinhais",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "636",
+      "name": "Checkmat São José dos Pinhais Área Vip",
+      "teacher": "Leandro José Gonçalves (Japa)",
+      "phones": [
+        "(41) 99976-6868"
+      ],
+      "website": "@checkmat_sjp",
+      "facebook": "",
+      "instagram": "",
+      "address": "Pedro Trevisan, 58 - Anexo ao Jacomar Colônia Rio Grande",
+      "neighborhood": "Colônia Rio Grande",
+      "city": "São José dos Pinhais",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "547",
+      "name": "Checkmat São Mateus do Sul",
+      "teacher": "Leila Welke",
+      "phones": [
+        "(42) 98829-8104",
+        "(42) 98884-4276"
+      ],
+      "website": "www.instagram.com/studiodaluta.oficial",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Ozy Mendonça de Lima, 1642 - 2 Andar",
+      "neighborhood": "Centro",
+      "city": "São Mateus do Sul",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "442",
+      "name": "Checkmat Telêmaco Borba",
+      "teacher": "Ricardo de Paula Pontes",
+      "phones": [
+        "(42) 9 9927-0308"
+      ],
+      "website": "@ricardo.pontes0",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Harmonia, 160",
+      "neighborhood": "Jardim Alegre",
+      "city": "Telemaco Borba",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "770",
+      "name": "Checkmat TGC Fitness Force",
+      "teacher": "Robson Oliveira Camargo",
+      "phones": [
+        "(42) 98822-0055"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Ernesto Kugler, 1077",
+      "neighborhood": "Centro",
+      "city": "Tibagi",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "259",
+      "name": "Checkmat Peco Team",
+      "teacher": "Josoeldo de Lima",
+      "phones": [
+        "(41) 98770-9369",
+        "(41) 98854-3819"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Benjamim Dissenha Sobrinho, 1197",
+      "neighborhood": "Vila Cubas",
+      "city": "Tijucas do Sul PR",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "306",
+      "name": "Checkmat Corpo em Ação",
+      "teacher": "Cleison Fagundes de Moraes",
+      "phones": [
+        "(42) 998595711"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Barão Do Cerro Azul, 532",
+      "neighborhood": "Centro",
+      "city": "União da Vitória",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "4",
+      "name": "Checkmat União",
+      "teacher": "Rubem André Cardoso",
+      "phones": [
+        "(042) 3524-5313",
+        "(042) 99819-5772"
+      ],
+      "website": "www.academiaborgo.com.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Desembargador Costa Carvalho, 262",
+      "neighborhood": "Centro",
+      "city": "União da Vitória",
+      "country": "Brasil",
+      "state": "PR"
+    },
+    {
+      "id": "769",
+      "name": "Checkmat Projeto Mais Que Vencedores",
+      "teacher": "Joel Carlos Melo da Silva",
+      "phones": [
+        "(24) 3365-4427",
+        "(24) 9 9957-4880"
+      ],
+      "website": "Rua do Cartorio, 81",
+      "facebook": "",
+      "instagram": "",
+      "address": "Igreja Congregacional",
+      "neighborhood": "Frade",
+      "city": "Angra dos Reis",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "864",
+      "name": "Checkmat Takiguti Jiu Jitsu",
+      "teacher": "Leonardo Takiguti Silva",
+      "phones": [
+        "(24) 992759917",
+        "(24) 999984106"
+      ],
+      "website": "Checkmat_takiguti",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua:Avenida Luigi Amêndola , 271",
+      "neighborhood": "Parque das Palmeiras",
+      "city": "Angra dos Reis",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "809",
+      "name": "Checkmat Alcântara Jjiu-Jitsu",
+      "teacher": "Jeremias da Silva Alcântara",
+      "phones": [
+        "(22) 98826-8275"
+      ],
+      "website": "@alcantarajiujitsuoficial",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Osvaldo Campos, 518",
+      "neighborhood": "Rio do Limão",
+      "city": "Araruama",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "815",
+      "name": "Checkmat Projetos Esportivos Prefeitura de Arraial do Cabo",
+      "teacher": "Gabriel Pullig Lopes da Rosa Soares",
+      "phones": [
+        "(22) 9 2622-2211",
+        "(22) 9 9925-7233"
+      ],
+      "website": "@pulligpersonal",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Joaquim Martins Fialho, 21",
+      "neighborhood": "Praia dos Anjos",
+      "city": "Arraial do Cabo",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "314",
+      "name": "Checkmat Barra Mansa",
+      "teacher": "Alysson Carvalho Martins",
+      "phones": [
+        "(24)999571905"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Major José Bento, 2087",
+      "neighborhood": "Vila Nova",
+      "city": "Barra Mansa",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "482",
+      "name": "Checkmat Emerson Góes BJJ",
+      "teacher": "Emerson da Silva Góes",
+      "phones": [
+        "(24) 3326-5885",
+        "(24) 99891-2213"
+      ],
+      "website": "emersoneflorinda@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua São Pedro número 1.470",
+      "neighborhood": "Vista Alegre",
+      "city": "Barra Mansa",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "422",
+      "name": "Checkmat Vinicios Abrahão jiu-jitsu",
+      "teacher": "Vinicios Carvalho Abrahão",
+      "phones": [
+        "22 999187271",
+        "22999187271"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua José de dome n, 247",
+      "neighborhood": "Palmeiras",
+      "city": "Cabo frio",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "879",
+      "name": "Checkmat Campos dos Goytacazes",
+      "teacher": "Rafael Alves Pessanha",
+      "phones": [
+        "(22)999997463"
+      ],
+      "website": "@checkmatcampos",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Alcebíades Pessanha Número: 157",
+      "neighborhood": "Parque Rosário",
+      "city": "Campos dos Goytacazes",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "366",
+      "name": "Checkmat Duque de Caxias- Centenário",
+      "teacher": "Wanderson Canuto de Oliveira",
+      "phones": [
+        "(21) 964758090"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "AvWinston Churchill, 590",
+      "neighborhood": "Centenário",
+      "city": "Duque de Caxias",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "571",
+      "name": "Checkmat Macaé - CT Ronny Tartaruga",
+      "teacher": "Ronny Peterson Prado Oliveira",
+      "phones": [
+        "(22) 9 9216-0255"
+      ],
+      "website": "@ronnytartarugajj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Evaldo Costa, 774",
+      "neighborhood": "Sol e Mar",
+      "city": "Macaé",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "619",
+      "name": "Checkmat LG fitness",
+      "teacher": "Pedro Costa Netto",
+      "phones": [
+        "21999493725"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Lg Fitness - R. Van Lerbergue - Itaipuaçu, Maricá - RJ, 24900-000",
+      "neighborhood": "Itaipuaçu",
+      "city": "Maricá",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "166",
+      "name": "checkmat Lord Fight",
+      "teacher": "José Glauber Sampaio Cartaxo Júnior",
+      "phones": [
+        "(21) 3732-2878",
+        "(21) 99915-7952"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Miosotis Lote:18 Quadra:19 Costa Verde",
+      "neighborhood": "Itaipuaçu",
+      "city": "Maricá",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "309",
+      "name": "Checkmat New Era Niteroi",
+      "teacher": "Flávio Eduardo Costa Duarte Júnior",
+      "phones": [
+        "(21) 99826-2207"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Mario Alves, 65 - SALA 401",
+      "neighborhood": "Icaraí",
+      "city": "Niterói",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "667",
+      "name": "Checkmat Vencedores em Cristo",
+      "teacher": "Renan Moreira Lopes | Kelly Lima Moreira | Mauricio Ferreira Macedo",
+      "phones": [
+        "22 98158-5010"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Maria Ferreira Medeiros, Nº 18",
+      "neighborhood": "Cônego",
+      "city": "Nova Friburgo",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "307",
+      "name": "Checkmat FSJJ Checkmat Petrópolis",
+      "teacher": "Gilberto de Souza Paiva (Smith)",
+      "phones": [
+        "24992213584"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Teresa, 1730",
+      "neighborhood": "Alto da serra",
+      "city": "Petrópolis",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "722",
+      "name": "Checkmat TCBJJ",
+      "teacher": "Rogério Fabiano Kroker",
+      "phones": [
+        "(24) 9 8825-2591"
+      ],
+      "website": "Checkmat _tcbjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Vigário Corrêa, 342 - 2° Andar",
+      "neighborhood": "Correas",
+      "city": "Petrópolis",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "163",
+      "name": "Checkmat CT Igor Rodrigues",
+      "teacher": "Igor Rodrigues dos Santos",
+      "phones": [
+        "(22) 99855-9161"
+      ],
+      "website": "Igor_Jiujitsu.bz@hotmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Justiniano de Souza, 84 loja 04",
+      "neighborhood": "",
+      "city": "Rasa Armação dos Búzios",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "796",
+      "name": "Checkmat Chatuba PWF",
+      "teacher": "Luciano Canema Memoria",
+      "phones": [
+        "21991593266"
+      ],
+      "website": "@projetowescleyfagundes",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua dr Godoy 663 Chatuba",
+      "neighborhood": "Mesquita",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "672",
+      "name": "Checkmat CT Bastos",
+      "teacher": "Antonio Bastos Leme",
+      "phones": [
+        "21 983184434"
+      ],
+      "website": "https://www.instagram.com/ctbastosoficial/",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av: princesa Isabel 150/ sl 202",
+      "neighborhood": "Leme",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "601",
+      "name": "Checkmat Dojo Cid Nascimento",
+      "teacher": "Cid Assunção Nascimento",
+      "phones": [
+        "2199281-6485"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua barata Ribeiro 489",
+      "neighborhood": "Copacabana",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "899",
+      "name": "Checkmat Espíndola",
+      "teacher": "Ludymila Ferrari Espíndola",
+      "phones": [
+        "021 995796961"
+      ],
+      "website": "@ludyespindola",
+      "facebook": "",
+      "instagram": "",
+      "address": "Estrada do Vidigal - Colégio Stella Maris Número:75 Complemento: Colégio Stella Maris",
+      "neighborhood": "Vidigal",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "586",
+      "name": "Checkmat Família Becker BJJ",
+      "teacher": "Amanda Becker",
+      "phones": [
+        "21980633827"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Roberto Silva 726",
+      "neighborhood": "Ramos",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "219",
+      "name": "Checkmat Fightzone Copacabana",
+      "teacher": "Ricardo Vieira",
+      "phones": [
+        "2121467980",
+        "21979792354"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua francisco sa 36 A",
+      "neighborhood": "Copacabana",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "882",
+      "name": "Checkmat For Christ RJ",
+      "teacher": "Douglas da Silva Garcia",
+      "phones": [
+        "021 96436-5456"
+      ],
+      "website": "@forchristrio",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Alhambra, 1200",
+      "neighborhood": "Campo Grande",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "415",
+      "name": "Checkmat Freguesia",
+      "teacher": "Ricardo Edgard e Milene Caroline",
+      "phones": [
+        "21995761686"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Estrada dos Tres Rios, 426 - Estacionamento",
+      "neighborhood": "Freguesia - Jacarepaguá",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "829",
+      "name": "Checkmat Projeto Vida com DEUS",
+      "teacher": "Leonardo de Figueiredo Leite",
+      "phones": [
+        "(21) 987532478"
+      ],
+      "website": "@projetovidacomdeusjjb",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Viscondensa de Pirassununga, N? 40 Rio de Janeiro RJ",
+      "neighborhood": "Cidade Nova",
+      "city": "Rio de Janeiro",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "557",
+      "name": "Checkmat Cantagalo",
+      "teacher": "Douglas Rufino da Silva",
+      "phones": [
+        "(21) 98537-0970"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Saint roman 200",
+      "neighborhood": "Copacabana",
+      "city": "RIO DE JANEIRO",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "304",
+      "name": "Checkmat PROJETO SG",
+      "teacher": "Miguel Paiva de melo",
+      "phones": [
+        "21974700580"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua itália 70 comunidade s8",
+      "neighborhood": "Marambaia",
+      "city": "São Gonçalo",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "623",
+      "name": "Checkmat REIS JIU JITSU",
+      "teacher": "Rodrigo Bravo Reis",
+      "phones": [
+        "(22) 98113-2163"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Estrada dos Cajueiros , 4565",
+      "neighborhood": "Vilatur",
+      "city": "Saquarema",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "361",
+      "name": "Checkmat Saquarema",
+      "teacher": "Victor Bruno de Lemos Fernandes",
+      "phones": [
+        "(22) 99707-4631",
+        "(22) 99707-4332"
+      ],
+      "website": "@checkmatsaquarema",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Alcides Fernandes de Azeredo, 07",
+      "neighborhood": "Porto da Roça",
+      "city": "Saquarema",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "781",
+      "name": "Checkmat Leandro Lima",
+      "teacher": "Leandro de Lima Coelho",
+      "phones": [
+        "(24) 9 9954-2537"
+      ],
+      "website": "@leandrolima.le",
+      "facebook": "",
+      "instagram": "",
+      "address": "Moacir Lacerda, 69",
+      "neighborhood": "Santa Cruz",
+      "city": "Volta Redonda",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "464",
+      "name": "Checkmat Thadeu Nobres",
+      "teacher": "Thadeu Giannattasio Nobres",
+      "phones": [
+        "(24)988130456"
+      ],
+      "website": "@tgnobres",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Lucas Evangelista de Oliveira Franco, 700 sala 206",
+      "neighborhood": "Aterrado",
+      "city": "Volta Redonda",
+      "country": "Brasil",
+      "state": "RJ"
+    },
+    {
+      "id": "485",
+      "name": "Checkmat RG Raminho Gomes",
+      "teacher": "Josenilson Albino Gomes Raminho",
+      "phones": [
+        "(84) 9 9818-6478"
+      ],
+      "website": "@RaminhoBJJ",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua José Adelino de Medeiros",
+      "neighborhood": "Paulo Sexto",
+      "city": "Caicó",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "836",
+      "name": "Checkmat Flor de Lis",
+      "teacher": "Jonas de Souza",
+      "phones": [
+        "(84) 9 9123-7685"
+      ],
+      "website": "@Jonas_bjj2",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Antônio Proença, 122 - Próximo a Prefeitura",
+      "neighborhood": "Centro",
+      "city": "João Câmara",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "768",
+      "name": "Checkmat Coelho",
+      "teacher": "Edenildo Jose Guedes do Nascimento",
+      "phones": [
+        "(84) 98635-8088"
+      ],
+      "website": "@checkmat_macaibarn",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Eloi de Souza, 104",
+      "neighborhood": "Fabrício Gomes",
+      "city": "Macaíba",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "919",
+      "name": "Checkmat Monte Alegre",
+      "teacher": "Max Dellis Andrade da Silva",
+      "phones": [
+        "(84) 99938-2425",
+        "(84) 99226-5431"
+      ],
+      "website": "@max_dellis.0fc",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rio Grande do Norte, N°99",
+      "neighborhood": "Barrenta",
+      "city": "Monte Alegre",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "608",
+      "name": "Checkmat Paredões",
+      "teacher": "Luciano Saraiva Avelino",
+      "phones": [
+        "(84) 9 8842-1866",
+        "(84) 9 9138-0395"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Prudente de Morais, 263",
+      "neighborhood": "Paredões",
+      "city": "Mossoró",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "891",
+      "name": "Checkmat Projeto Semear",
+      "teacher": "Fagner Tavares da Silva",
+      "phones": [
+        "(84)98628-8942",
+        "(84)987124770"
+      ],
+      "website": "@fagner_bambam2024",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua: pastor Josino Galvão, 405",
+      "neighborhood": "Felipe Camarão",
+      "city": "Natal",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "582",
+      "name": "Checkmat Carlos Souza",
+      "teacher": "Carlos Antônio de Souza",
+      "phones": [
+        "84991996371"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Sargento Norberto Marques - N: 999",
+      "neighborhood": "Centro",
+      "city": "Parnamirim",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "457",
+      "name": "Checkmat Nova Parnamirim",
+      "teacher": "André Ceará da Silva (Polvo)",
+      "phones": [
+        "084 98754-8993"
+      ],
+      "website": "@checkmat.novaParnamirimrn",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Ayrton Senna, 1891",
+      "neighborhood": "Nova Parnamirim",
+      "city": "Parnamirim",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "607",
+      "name": "Checkmat Pirangi",
+      "teacher": "Edinaldo de Lima e Silva",
+      "phones": [
+        "84994694195"
+      ],
+      "website": "Checkmat.pirangi",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Maria de Lourdes",
+      "neighborhood": "Beira Rio",
+      "city": "Parnamirim",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "669",
+      "name": "Checkmat Samurai Academy",
+      "teacher": "Wellington Felix da Silva",
+      "phones": [
+        "(84) 98608-3909",
+        "(84) 99131-4885"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Rosa Fernandes da Silva, 187",
+      "neighborhood": "Nova Esperança",
+      "city": "Parnamirim",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "798",
+      "name": "Checkmat Passa e Fica",
+      "teacher": "Lucas Cazuza Marques de Oliveira",
+      "phones": [
+        "84 99119-1823",
+        "84 981223829"
+      ],
+      "website": "@Checkmatpassaefica",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av: Celso Lisboa N:1103",
+      "neighborhood": "Passa e Fica",
+      "city": "Passa e Fica",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "853",
+      "name": "Checkmat 360 Academy",
+      "teacher": "Clistenes Jorge dos Santos Lima",
+      "phones": [
+        "(84) 9 9800-8204"
+      ],
+      "website": "@clistenesjorge",
+      "facebook": "",
+      "instagram": "",
+      "address": "Antônio Alves de Souza, 394 ( Ao lado da escola Edilma de Freitas Princesinha )",
+      "neighborhood": "Centro",
+      "city": "Pau dos Ferros",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "801",
+      "name": "Checkmat Alfredo Junior Escola de JIU-JITSU",
+      "teacher": "Antonio Alfredo da Silva Junior",
+      "phones": [
+        "(84) 9 8838-2099"
+      ],
+      "website": "@alfredojunior_escolabjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Eng. Luciano Barros, 178 - Residencial Florida Parque",
+      "neighborhood": "Santo Antônio do Potengi",
+      "city": "São Gonçalo do Amarante",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "693",
+      "name": "Checkmat Clã Mopebu Checkmat",
+      "teacher": "Rafael De Lima Freire",
+      "phones": [
+        "(84)994079313"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua quinze de novembro, 120",
+      "neighborhood": "Centro",
+      "city": "São José de Mipibu",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "700",
+      "name": "CheckMat Tibau",
+      "teacher": "Ray do Nascimento.",
+      "phones": [
+        "84994540573"
+      ],
+      "website": "@teamcstibau",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua da Baleia, n° 54",
+      "neighborhood": "Centro",
+      "city": "Tibau",
+      "country": "Brasil",
+      "state": "RN"
+    },
+    {
+      "id": "926",
+      "name": "Checkmat T J. e Centro de Treinamento",
+      "teacher": "Joselino Assunção Coutinho",
+      "phones": [
+        "(69) 993851631"
+      ],
+      "website": "@jecentrodetreinamento",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Pau Ferro, 1191",
+      "neighborhood": "Castanheira",
+      "city": "Porto Velho",
+      "country": "Brasil",
+      "state": "RO"
+    },
+    {
+      "id": "898",
+      "name": "Checkmat Capão",
+      "teacher": "Jonas Elias da Silveira",
+      "phones": [
+        "51 983165919"
+      ],
+      "website": "@checkmat.capao",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Faustino João Pereira 162",
+      "neighborhood": "Santo Antônio",
+      "city": "Capão da Canoa",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "712",
+      "name": "Checkmat Cidreira",
+      "teacher": "Vinícius Rachi Pinto Nazaré",
+      "phones": [
+        "(51) 9 9160-3486"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Carlota de Oliveira Pacheco, 1944",
+      "neighborhood": "Nazaré",
+      "city": "Cidreira",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "719",
+      "name": "Checkmat Chiacchio Burgos Jiu-jitsu",
+      "teacher": "Durval Burgos Neto",
+      "phones": [
+        "54 99159-2222"
+      ],
+      "website": "www.checkmatgramadors.com.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 1° de maio,1.600",
+      "neighborhood": "Várzea Grande",
+      "city": "Gramado",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "825",
+      "name": "Checkmat Tamoio Brazilian Jiu-Jitsu",
+      "teacher": "Celso Flores dos Reis",
+      "phones": [
+        "(53) 9 8160-8659"
+      ],
+      "website": "@reis.jiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Sertório, 1232",
+      "neighborhood": "Padre Réus",
+      "city": "Gravataí",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "923",
+      "name": "Checkmat Jiu Jitsu - CNJP 66.999.584/0001-69",
+      "teacher": "Lucas dos Santos Gonzalez",
+      "phones": [
+        "51984491808"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua São Paulo, 326",
+      "neighborhood": "Parque 35",
+      "city": "Guaíba",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "885",
+      "name": "Checkmat Osório",
+      "teacher": "Cristian André Mendes",
+      "phones": [
+        "(51) 9 8102-9882",
+        "(51) 9 9568-8661"
+      ],
+      "website": "@profcrismendes24",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João Sarmento, 525 - Sala 3",
+      "neighborhood": "Centro",
+      "city": "Osório",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "574",
+      "name": "Checkmat Cave",
+      "teacher": "Luis Henrique Endres Mattos",
+      "phones": [
+        "(54) 99708-5091"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Mascarenhas, 30",
+      "neighborhood": "Operaria",
+      "city": "Passo fundo",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "411",
+      "name": "Checkmat Passo Fundo",
+      "teacher": "Carlos Heitor Kirst e Frederico Kirst",
+      "phones": [
+        "99139-9467"
+      ],
+      "website": "@checkmatpf",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. 7 de Setembro, 74 - CEP: 99010-001",
+      "neighborhood": "Vila Nicolau Vergueiro",
+      "city": "Passo Fundo",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "830",
+      "name": "Checkmat Satori BJJ",
+      "teacher": "Rangel de Oliveira Mello",
+      "phones": [
+        "(53) 9 9205-1216"
+      ],
+      "website": "@rangel_mello",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua São Francisco, 2969",
+      "neighborhood": "Três Vendas",
+      "city": "Pelotas",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "867",
+      "name": "Checkmat Família Jiu-jitsu",
+      "teacher": "Christian Miranda da Silveira",
+      "phones": [
+        "(51) 996101457"
+      ],
+      "website": "@checkmat_familia",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Alberto Silva 1820",
+      "neighborhood": "Vila Ipiranga",
+      "city": "Porto Alegre",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "477",
+      "name": "Checkmat Porto Alegre",
+      "teacher": "Diego Rodrigo de Brito",
+      "phones": [
+        "51 998191850",
+        "51 997183537"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Icarai 780/loja 2",
+      "neighborhood": "Cristal",
+      "city": "Porto Alegre",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "382",
+      "name": "Checkmat Ramos - São Leopoldo",
+      "teacher": "Leandro Ramos",
+      "phones": [
+        "(51) 9 9966-0105"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Lindolfo Collor, 1167",
+      "neighborhood": "Centro",
+      "city": "São Leopoldo",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "493",
+      "name": "Checkmat Tapejara",
+      "teacher": "Evandro de Campos Abido",
+      "phones": [
+        "(54) 9 9946-3241"
+      ],
+      "website": "@Checkmattapejara",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João XXIII, 10",
+      "neighborhood": "São Paulo",
+      "city": "Tapejara",
+      "country": "Brasil",
+      "state": "RS"
+    },
+    {
+      "id": "766",
+      "name": "Checkmat Centro",
+      "teacher": "Matheus Souza dos Santos",
+      "phones": [
+        "(47) 9 9609-1395"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua 2550, 1130 - CT NFT",
+      "neighborhood": "Centro",
+      "city": "Balneário Camboriú",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "725",
+      "name": "Checkmat Naçoes",
+      "teacher": "Jeison Pinto Silva Siqueira",
+      "phones": [
+        "(47) 9 8479-7464"
+      ],
+      "website": "Siqueirajeison540@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Israel, 491",
+      "neighborhood": "Nações",
+      "city": "Balneário Camboriú",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "788",
+      "name": "Checkmat Jiu-Jitsu Balneário Piçarras",
+      "teacher": "Matheus Matias Onofre",
+      "phones": [
+        "(47) 9 9603-1079"
+      ],
+      "website": "@checkmatbalneariopicarras",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Ver. João Figueredo, 778",
+      "neighborhood": "Centro",
+      "city": "Balneário Piçarras",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "772",
+      "name": "Checkmat Barra Velha",
+      "teacher": "Caio Leon Pimentel Marcovici",
+      "phones": [
+        "(47) 9 9131-4100"
+      ],
+      "website": "@checkmatbarra",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Waldemar Francisco, 407 - Andar 01 - Sala 16",
+      "neighborhood": "São Cristóvão",
+      "city": "Barra Velha",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "730",
+      "name": "Checkmat Blumenau",
+      "teacher": "Alexander Jonatas Martini",
+      "phones": [
+        "47 99921-3220"
+      ],
+      "website": "@one.bnu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Otto Berner, 26 - 2° Piso",
+      "neighborhood": "Itoupava Seca",
+      "city": "Blumenau",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "2",
+      "name": "Checkmat Diamond Jiu Jitsu",
+      "teacher": "Idelor Diego da Silva",
+      "phones": [
+        "(047) 3365-5476",
+        "(047) 99607-9373"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Piauí, 43",
+      "neighborhood": "Areias",
+      "city": "Camboriú",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "570",
+      "name": "Checkmat Moisés Acosta Amaral",
+      "teacher": "Moisés Acosta Amaral",
+      "phones": [
+        "(54) 99208-9385",
+        "(54) 99276-8468"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "S Joao - Servidao Alzira Rosa Aguiar, 699",
+      "neighborhood": "São João do Rio Vermelho",
+      "city": "Florianopolis",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "682",
+      "name": "Checkmat Campeche",
+      "teacher": "Tiago Awdziej Pagnocca",
+      "phones": [
+        "48 991768589"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Pequeno Príncipe, 589",
+      "neighborhood": "Campeche",
+      "city": "Florianópolis",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "893",
+      "name": "Checkmat Carianos",
+      "teacher": "Reginaldo Kruch",
+      "phones": [
+        "(48) 9 8807-5022"
+      ],
+      "website": "@checkmat_carianos",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Prof. Américo Vespúcio Pratés, 45",
+      "neighborhood": "Carianos",
+      "city": "Florianópolis",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "668",
+      "name": "Checkmat Floripa",
+      "teacher": "Marcos Antônio Arnaldo Kim",
+      "phones": [
+        "48 999773530"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Afonso Pena, 862",
+      "neighborhood": "Canto",
+      "city": "Florianópolis",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "957",
+      "name": "Checkmat DJ Jiu-Jítsu",
+      "teacher": "Djhonata Heinz",
+      "phones": [
+        "(47) 98477-8724"
+      ],
+      "website": "@djjiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Belo Horizonte, 50",
+      "neighborhood": "Sete Setembro",
+      "city": "Gaspar",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "566",
+      "name": "Checkmat Academia Clube Dojo",
+      "teacher": "Matheus Bruco Rego Martins",
+      "phones": [
+        "47 999066998"
+      ],
+      "website": "@academiaclubedojo",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Heitor Liberato 1159 sala 1",
+      "neighborhood": "Centro",
+      "city": "Itajaí",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "79",
+      "name": "Checkmat Academia Prideway",
+      "teacher": "Henrique Russi Félix de Lima",
+      "phones": [
+        "(47) 30360646",
+        "(47) 9915360"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Hildebrando José da Silva, 500",
+      "neighborhood": "",
+      "city": "Itajaí",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "400",
+      "name": "Checkmat CT Leonardo Santos",
+      "teacher": "Leonardo Santos",
+      "phones": [
+        "(47) 99244-4331"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Gaspar da Costa Moraes, 367",
+      "neighborhood": "São Vicente",
+      "city": "Itajaí",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "401",
+      "name": "Checkmat CT Strong BJJ",
+      "teacher": "Fabio Nery Fernandes",
+      "phones": [
+        "(47) 99781-8181"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Campos Novos, 358",
+      "neighborhood": "São Vicente",
+      "city": "Itajaí",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "936",
+      "name": "Checkmat Twister BJJ",
+      "teacher": "Laercio da Silva",
+      "phones": [
+        "(47) 99678-1008"
+      ],
+      "website": "@Laerciosilva",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Gregório Chaves, 45 - Anexo a Academia CT Fábrica Itajaí",
+      "neighborhood": "Fazenda",
+      "city": "Itajaí",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "902",
+      "name": "Checkmat Uilhan Silva BJJ",
+      "teacher": "Uilhan Cesar da Silva",
+      "phones": [
+        "47 999381215"
+      ],
+      "website": "@uilhansillva",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua dos passarinhos, 372",
+      "neighborhood": "São José",
+      "city": "Itapoá",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "787",
+      "name": "Checkmat Jaraguá",
+      "teacher": "Murilo dos Santos Souza e Silva",
+      "phones": [
+        "(84) 9 9658-0094"
+      ],
+      "website": "@Murilosantos021",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Manuel Francisco da Costa, 5015",
+      "neighborhood": "João Pessoa",
+      "city": "Jaraguá do Sul",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "418",
+      "name": "CheckMat - Glória",
+      "teacher": "Willyan Schumacher",
+      "phones": [
+        "(47) 996046957"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Emílio Germano Riesemberg n° 34",
+      "neighborhood": "Glória",
+      "city": "Joinville",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "421",
+      "name": "CheckMat Floresta",
+      "teacher": "Pablo Luis Carvalho",
+      "phones": [
+        "47 9 9683 2794"
+      ],
+      "website": "@checkmatfloresta",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Genebaldo Vieira 171",
+      "neighborhood": "Floresta",
+      "city": "Joinville",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "416",
+      "name": "Checkmat Goat",
+      "teacher": "Ronaldo Konno e Marciano Santos",
+      "phones": [
+        "(47) 999188035"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Chopim, 473",
+      "neighborhood": "Iririú",
+      "city": "Joinville",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "405",
+      "name": "Checkmat Joinville",
+      "teacher": "Fernando de Souza Correa e Rafael Felippi",
+      "phones": [
+        "(47)99932-0727"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Indaial. 630",
+      "neighborhood": "Saguaçú",
+      "city": "Joinville",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "606",
+      "name": "Checkmat Lages - New Art",
+      "teacher": "Paulo Ricardo Vieira Frederes",
+      "phones": [
+        "49999797734"
+      ],
+      "website": "@checkmat_prime",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av presidente vargas 1419",
+      "neighborhood": "Coral",
+      "city": "Lages",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "670",
+      "name": "Checkmat Lages GS Team",
+      "teacher": "Gil Eanes Oliveira Sousa",
+      "phones": [
+        "49999112621"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "rua Baependi, 50",
+      "neighborhood": "Centro",
+      "city": "Lages",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "877",
+      "name": "Checkmat Alto vale",
+      "teacher": "Maicon Rodrigo dos Santos",
+      "phones": [
+        "(47) 988260860"
+      ],
+      "website": "@maiconrodrigosantosjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Monteiro Lobato, 191",
+      "neighborhood": "Centro",
+      "city": "Rio do Sul",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "949",
+      "name": "Checkmat Rio Negrinho",
+      "teacher": "Carlos Roberto Rodrigues de França",
+      "phones": [
+        "(47) 99993-6595"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Carlos Hantschel, 530 - Sala comercial",
+      "neighborhood": "Bela vista",
+      "city": "Rio Negrinho",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "665",
+      "name": "Checkmat OnlyWay Jiujitsu",
+      "teacher": "Kleber Rodrigues Silva",
+      "phones": [
+        "(47) 99709-6364"
+      ],
+      "website": "@onlywayjiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Marcílio Dias 583, piso superior",
+      "neighborhood": "Centro",
+      "city": "São Francisco do Sul",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "940",
+      "name": "Checkmat São José",
+      "teacher": "Willy Matheus de Souza",
+      "phones": [
+        "(48) 99123-0663"
+      ],
+      "website": "@wmsjiuj�tsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João grumiche, 1712, sala 03 - SC Condomínio Life business",
+      "neighborhood": "Roçado",
+      "city": "São José",
+      "country": "Brasil",
+      "state": "SC"
+    },
+    {
+      "id": "152",
+      "name": "Checkmat Samurai Jiu Jitsu",
+      "teacher": "Claudinei Barbosa da Silva",
+      "phones": [
+        "(79) 998018654"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Agenor Costa viera, 70B",
+      "neighborhood": "Aeroporto/ Conjunto Santa Tereza",
+      "city": "Aracaju",
+      "country": "Brasil",
+      "state": "SE"
+    },
+    {
+      "id": "686",
+      "name": "Checkmat Crosshard",
+      "teacher": "Rafael Tiezzi Belluci",
+      "phones": [
+        "18 998003329",
+        "18 99759-9316"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Alameda Porto Alegre, 290",
+      "neighborhood": "Vila Jardim",
+      "city": "Adamantina",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "751",
+      "name": "Checkmat Centro de Treinamento Diego Prado",
+      "teacher": "Diego Donizete do Prado",
+      "phones": [
+        "16992147661"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Capitão José Esteves Júnior 970",
+      "neighborhood": "Jardim Esplanada",
+      "city": "Altinópolis",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "861",
+      "name": "Checkmat AFC - Americana",
+      "teacher": "Redson Oliveira",
+      "phones": [
+        "(11) 9 9581-2090",
+        "(19) 9 9613-8457"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Maj. Rehder, 233",
+      "neighborhood": "Vila Rehder",
+      "city": "Americana",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "620",
+      "name": "CheckMat Anhembi",
+      "teacher": "Amarildo de Oliveira",
+      "phones": [
+        "14 996921624"
+      ],
+      "website": "amarildomalabjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "rua Sueli Lázaro Bernardino, 16",
+      "neighborhood": "Centro",
+      "city": "Anhembi",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "271",
+      "name": "Checkmat GABAS.J.J",
+      "teacher": "Gilberto Aparecido Gabas Júnior",
+      "phones": [
+        "1836221501",
+        "18991098448"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Barão do Triunfo 550",
+      "neighborhood": "Paraiso",
+      "city": "ARAÇATUBA",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "502",
+      "name": "CHECKMAT DOJO ARARAQUARA",
+      "teacher": "Marlon Campos Fontana",
+      "phones": [
+        "(16) 98181-1775"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Humaitá, 2041",
+      "neighborhood": "Centro",
+      "city": "Araraquara",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "372",
+      "name": "Checkmat Araras Jardim José Ometto III",
+      "teacher": "José Ricardo Santana Souza",
+      "phones": [
+        "(19) 99273-6419"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua José Siqueira, 335",
+      "neighborhood": "Jardim José Ometto III",
+      "city": "Araras",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "780",
+      "name": "Checkmat RF",
+      "teacher": "Roberto Aparecido Ferraz",
+      "phones": [
+        "(14) 9 9148-8611"
+      ],
+      "website": "@Checkmat RF",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Balduino Antônio Portes, 93 - Igreja Congregação",
+      "neighborhood": "Centro",
+      "city": "Areiópolis",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "903",
+      "name": "Checkmat Barueri Alphaville",
+      "teacher": "Cícero Pereira da Rocha",
+      "phones": [
+        "11 973928568"
+      ],
+      "website": "@cicerorochabjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Al. Grajau 525",
+      "neighborhood": "Alphaville",
+      "city": "Barueri",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "472",
+      "name": "Checkmat Carrenho",
+      "teacher": "Alessandro Carrenho",
+      "phones": [
+        "14996000579"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Marçal de Arruda Campos. nº 8-13",
+      "neighborhood": "Vila Lemos",
+      "city": "Bauru",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "657",
+      "name": "Checkmat Eduardo Felix Jiu Jitsu",
+      "teacher": "Eduardo Bruno Felix",
+      "phones": [
+        "14 996923005"
+      ],
+      "website": "https://instagram.com/duhfelixjiu?igshid=ZDc4",
+      "facebook": "",
+      "instagram": "",
+      "address": "Edilson Alves de Carvalho, 328",
+      "neighborhood": "Jardim Celina",
+      "city": "Bauru",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "423",
+      "name": "Checkmat Roggerinho Garcia",
+      "teacher": "Rogério Garcia",
+      "phones": [
+        "14 98805-2784"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Sargento Manoel Faria Inojosa n° 6-21",
+      "neighborhood": "Nova Esperança",
+      "city": "Bauru",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "852",
+      "name": "CheckMat Team Léo Jiu-Jitsu",
+      "teacher": "Leonardo Almas de Abreu",
+      "phones": [
+        "(14) 997108074"
+      ],
+      "website": "@academialjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Fioravante Tedesco, 235",
+      "neighborhood": "Jardim Cruzeiro do Sul",
+      "city": "Bauru",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "793",
+      "name": "Checkmat CT Orion Thai",
+      "teacher": "Ailton Vieira da Silva",
+      "phones": [
+        "11 950271366"
+      ],
+      "website": "@talota.ailtonvieira",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua dos Lavradores, 42",
+      "neighborhood": "Centro",
+      "city": "Boituva",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "404",
+      "name": "CheckmatMM",
+      "teacher": "Maurício César Leite Maletta",
+      "phones": [
+        "14 996712772"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Camilo Mazoni , 1575",
+      "neighborhood": "Jardim Paraiso",
+      "city": "Botucatu",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "941",
+      "name": "Checkmat Dread",
+      "teacher": "Airton Candido Junior",
+      "phones": [
+        "(16)99308-8848"
+      ],
+      "website": "@dread_jiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Olga Greggio Matos, 11",
+      "neighborhood": "Jardim Vereador João Luiz de Vicente",
+      "city": "Brodowski",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "60",
+      "name": "Checkmat CT Kadosh",
+      "teacher": "Luciano Pereira Barcellos da Silva",
+      "phones": [
+        "(11) 98728-4146"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Vereador João Cardoso - N 230",
+      "neighborhood": "Jardim Mariana",
+      "city": "Cajamar",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "754",
+      "name": "Checkmat MB Team",
+      "teacher": "Lucas Clementino Muniz",
+      "phones": [
+        "(19) 9 99955-883"
+      ],
+      "website": "@Lucasmunizbjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Almeida Garret, 893",
+      "neighborhood": "Parque Taquaral",
+      "city": "Campinas",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "551",
+      "name": "Checkmat Bird House Jiu Jitsu School",
+      "teacher": "Fernanda Torres de Oliveira e Carlos Rossi",
+      "phones": [
+        "(11) 98867-9687"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Guatemala 100",
+      "neighborhood": "Jardim América",
+      "city": "Campo Limpo Paulista",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "948",
+      "name": "Checkmat Carapicuíba - O Tabuleiro",
+      "teacher": "Welton Elias de Santana",
+      "phones": [
+        "(11) 96316-9498"
+      ],
+      "website": "@checkmat_carapicuiba",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Rui Barbosa, 218 - Salão Comercial 2° Andar",
+      "neighborhood": "Centro",
+      "city": "Carapicuíba",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "942",
+      "name": "Checkmat Guard Core - Team Gutty",
+      "teacher": "Guilherme Luchetta Pinheiro",
+      "phones": [
+        "(11) 92576-1992"
+      ],
+      "website": "@checkmat_guardcore",
+      "facebook": "",
+      "instagram": "",
+      "address": "Estrada do Gopiúva, 402",
+      "neighborhood": "Vila da Oportunidade",
+      "city": "Carapicuíba",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "265",
+      "name": "Checkmat LP Team",
+      "teacher": "Leandro Pádua de Araujo",
+      "phones": [
+        "(11) 4184-4742",
+        "(11) 99998-4646"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Sete Lagoas, 05 - GALPÃO 21",
+      "neighborhood": "Vila Mun.",
+      "city": "Carapicuíba",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "862",
+      "name": "Checkmat Escola de Luta Team Ton",
+      "teacher": "Everton Pereira",
+      "phones": [
+        "(16) 993019129"
+      ],
+      "website": "@escoladelutateamton",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Nelson Nogueira n°2140",
+      "neighborhood": "Jd. Pulicano",
+      "city": "Franca",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "685",
+      "name": "Checkmat Sylvãojj Checkmat Franca",
+      "teacher": "Sylvio Ambrósio Pedro e Eduardo Pedro",
+      "phones": [
+        "16 993230072"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Arthur Marangoni 1846",
+      "neighborhood": "Santa Rita",
+      "city": "Franca",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "833",
+      "name": "Checkmat 2 Brothers",
+      "teacher": "Leandro Serra dos Santos",
+      "phones": [
+        "(13) 9 9638-6631"
+      ],
+      "website": "@2brothers",
+      "facebook": "",
+      "instagram": "",
+      "address": "Atílio Gelsomini, 313 - Comércio",
+      "neighborhood": "Santa Rosa",
+      "city": "Guarujá",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "303",
+      "name": "Checkmat Leandro Martins Team",
+      "teacher": "Alan Rodrigues de Souza e Leandro Martins",
+      "phones": [
+        "+9710508582439"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Cap Manoel de Oliveira Carvalho 333",
+      "neighborhood": "Centro",
+      "city": "Ibiuna",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "716",
+      "name": "Checkmat Speed Form",
+      "teacher": "Rogério dos Santos",
+      "phones": [
+        "(14) 99632-1659"
+      ],
+      "website": "rs_bjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Sebastiana de Barros, N° 43",
+      "neighborhood": "Centro",
+      "city": "Igaraçu do Tietê",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "297",
+      "name": "Checkmat Studio Gaia Ilhabela",
+      "teacher": "Guilherme Augusto dos Santos Coutinho",
+      "phones": [
+        "(12) 99242-2259"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Morro da Cruz, 241",
+      "neighborhood": "Perequê",
+      "city": "Ilhabela",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "344",
+      "name": "Checkmat Base 4 Indaiatuba",
+      "teacher": "Ygor Dantas / Priscila Prandini Dantas",
+      "phones": [
+        "(19) 984390930"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cerqueira Cesar, 360",
+      "neighborhood": "Centro",
+      "city": "Indaiatuba",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "343",
+      "name": "Checkmat Itapetininga.",
+      "teacher": "Jairo De Jesus Elias Gonzaga Vieira",
+      "phones": [
+        "15 996519117"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua General Glicerio 572",
+      "neighborhood": "Centro",
+      "city": "Itapetininga",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "80",
+      "name": "Checkmat Itararé Team FH",
+      "teacher": "Fernando Henrique da Silva",
+      "phones": [
+        "(15) 3531-3248"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João Batista Veiga, 326",
+      "neighborhood": "Centro",
+      "city": "Itararé",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "380",
+      "name": "Checkmat Carlão Itu",
+      "teacher": "Carlos Henrique Rodrigues Camargo",
+      "phones": [
+        "(11) 40242430",
+        "(11) 996181846"
+      ],
+      "website": "@elianesoares1871",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Adolfo Rodrigues arruda número 75",
+      "neighborhood": "Parque industrial",
+      "city": "Itu",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "603",
+      "name": "Checkmat CT Mamute / Paz Jiu Jitsu",
+      "teacher": "Luis Ricardo Santana",
+      "phones": [
+        "(11) 99788-2726"
+      ],
+      "website": "https://instagram.com/pazjiujitsuitu?igshid=Y",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Edison Benedito Andreazza, 27",
+      "neighborhood": "São Camilo",
+      "city": "ITU",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "572",
+      "name": "Checkmat Itupeva",
+      "teacher": "Fernando Rodrigues de Oliveira",
+      "phones": [
+        "(011) 93313-4210"
+      ],
+      "website": "https://instagram.com/checkmat_itupeva",
+      "facebook": "",
+      "instagram": "",
+      "address": "Estrada Municipal Duilio Sai 832 (Colégio Objetivo)",
+      "neighborhood": "Lagoa",
+      "city": "Itupeva",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "262",
+      "name": "Checkmat RCBJJ",
+      "teacher": "Ronaldo Milanesi de Magalhães Chaves",
+      "phones": [
+        "14997411530"
+      ],
+      "website": "@ronaldochavesbjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "AVENIDA. DEPUTADO JOÃO LÁZARO DE ALMEIDA PRADO, 305",
+      "neighborhood": "Jardim Novo Horizonte",
+      "city": "Jaú",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "375",
+      "name": "Checkmat Academia Blacklokal",
+      "teacher": "Rafael Augusto Martho",
+      "phones": [
+        "(11) 45873457",
+        "(11) 930002423"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av doutor Cavalcante 627",
+      "neighborhood": "Centro",
+      "city": "Jundiai",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "412",
+      "name": "Checkmat Clube Gran São João",
+      "teacher": "João Lucas Buzzo Vera Cruz",
+      "phones": [
+        "(19) 98839-6418"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Dr Antônio Federico Ozanan",
+      "neighborhood": "São João",
+      "city": "Limeira",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "196",
+      "name": "Checkmat Academia Mega Life",
+      "teacher": "Fabio Junior de Jesus Silva",
+      "phones": [
+        "(19)992475904"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "rua roberto Mazalli n37 sala 7",
+      "neighborhood": "Bairro Santo Antonio",
+      "city": "Louveira",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "275",
+      "name": "Checkmat Estúdio Kyrios",
+      "teacher": "Wagner de Carvalho Custodio (kaverna)",
+      "phones": [
+        "11995406126"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Laudemiro Ramos n 125 sala 9",
+      "neighborhood": "Centro",
+      "city": "Mairiporã",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "273",
+      "name": "Checkmat Ginshin",
+      "teacher": "Herivelto Aparecido Martins",
+      "phones": [
+        "(17)3281-3359",
+        "(17) 99774-6761"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "RUA JOAQUIM MIGUEL DOS SANTOS Nº 570",
+      "neighborhood": "CENTRO",
+      "city": "OLIMPIA",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "659",
+      "name": "Checkmat Team Gutty Osasco",
+      "teacher": "José Gutenberg Bento Vieira",
+      "phones": [
+        "11 98048-6660"
+      ],
+      "website": "LINKTREE.TEAMGUTTY.COM",
+      "facebook": "",
+      "instagram": "",
+      "address": "AV JOAO DE ANDRADE , 1495 - 2° ANDAR",
+      "neighborhood": "SANTO ANTONIO",
+      "city": "OSASCO",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "542",
+      "name": "Checkmat Paraguaçu Paulista",
+      "teacher": "Carlos Alberto Pereira",
+      "phones": [
+        "(18) 98134-0105",
+        "(18)98134-0105"
+      ],
+      "website": "https://instagram.com/checkmatparaguacu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Siqueira Campos, 758",
+      "neighborhood": "Centro",
+      "city": "Paraguaçu Paulista",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "834",
+      "name": "Checkmat Forchristjj jiu-jitsu",
+      "teacher": "Guilherme Fuzari",
+      "phones": [
+        "013982033012"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "AV Presidente Kennedy, 2242",
+      "neighborhood": "Guilhermina",
+      "city": "Praia Grande",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "471",
+      "name": "Checkmat Pezão Team",
+      "teacher": "Aleksandro Henrique De Araujo",
+      "phones": [
+        "(13) 97402-8045"
+      ],
+      "website": "@ctblackarmy",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Trabalhador, 421",
+      "neighborhood": "Sitio do Campo",
+      "city": "Praia Grande",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "355",
+      "name": "Checkmat Romero Alves Brazilian Jiu Jitsu",
+      "teacher": "Romero Alves Amancio",
+      "phones": [
+        "974221257",
+        "974084478"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Presidente Kennedy 829",
+      "neighborhood": "Boqueirão",
+      "city": "Praia Grande",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "526",
+      "name": "Checkmat Escola Ribeiro Jiu Jitsu",
+      "teacher": "Victor Hugo Ribeiro Silva",
+      "phones": [
+        "14996784282"
+      ],
+      "website": "escolaribeirojiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Pedro de Toledo, 185",
+      "neighborhood": "Centro",
+      "city": "Promissão",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "924",
+      "name": "Checkmat Team Ton Ribeiro Corrente",
+      "teacher": "Everton Pereira",
+      "phones": [
+        "016 994524344"
+      ],
+      "website": "@escoladelutateamton",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Orcionio Roque de a Matos, s/n°",
+      "neighborhood": "Centro",
+      "city": "Ribeirão Corrente",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "656",
+      "name": "Checkmat Escola de Artes Marciais Rio Claro - SP",
+      "teacher": "Jorge Otávio Pereira Dias",
+      "phones": [
+        "(13)996639821"
+      ],
+      "website": "https://instagram.com/checkmat.rioclaro?igshi",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida 11 número 534",
+      "neighborhood": "Centro",
+      "city": "Rio Claro",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "293",
+      "name": "Checkmat CT Mat Salto SP",
+      "teacher": "Ronaldo de Oliveira",
+      "phones": [
+        "11 4098 2951",
+        "11 9 8396 6725"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av.Dom Pedro II 894",
+      "neighborhood": "Centro",
+      "city": "Salto",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "878",
+      "name": "Checkmat Fazendinha Team Xandão",
+      "teacher": "Alexandre Cassio de Brito",
+      "phones": [
+        "11 911035433"
+      ],
+      "website": "@tande.brito",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua rio de janeiro 121",
+      "neighborhood": "Chácara Solar",
+      "city": "Santana de Parnaíba",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "952",
+      "name": "Checkmat Santa Cristina",
+      "teacher": "Henrique Aparecido Oliveira de Souza",
+      "phones": [
+        "(11) 95868-8555",
+        "(11) 97119-2128"
+      ],
+      "website": "@henrique.brazilianjiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Professor Felisberto de Carvalho, 195",
+      "neighborhood": "Jardim Santa Cristina",
+      "city": "Santo André",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "433",
+      "name": "Checkmat Santo André",
+      "teacher": "Wilson Bueno de Moraes Júnior",
+      "phones": [
+        "11942637173"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua oratório 118 / sala 3",
+      "neighborhood": "Bangu",
+      "city": "Santo André",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "752",
+      "name": "Checkmat Arcore Jiu-Jitsu",
+      "teacher": "Anthony de Padua Ferreira de Araújo e Rodrigo Ferreira",
+      "phones": [
+        "(13) 4042-2535"
+      ],
+      "website": "@arcorejj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Ministro João Mendes, 306 - Sala 203",
+      "neighborhood": "Embaré",
+      "city": "Santos",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "503",
+      "name": "Checkmat Cte / Pedro Dias",
+      "teacher": "Pedro Henrique Dias Conti Souza",
+      "phones": [
+        "11971193637"
+      ],
+      "website": "@pedrodias_checkmat",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua mmdc número 505",
+      "neighborhood": "Pauliceia",
+      "city": "São Bernardo do campo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "494",
+      "name": "Checkmat Holanda Fight Team",
+      "teacher": "Anderson Coelho Holanda",
+      "phones": [
+        "11948997871"
+      ],
+      "website": "@holandafightteam",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua arcagelo Campanela, 749",
+      "neighborhood": "Jardim Calux",
+      "city": "São Bernardo do campo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "159",
+      "name": "Checkmat Academia Fight GYM",
+      "teacher": "Fabio Chemik",
+      "phones": [
+        "(11)4930-2235",
+        "11 94070-6982"
+      ],
+      "website": "www.fightgym.com.br",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Paschoal Gastaldo, 189",
+      "neighborhood": "Nova Petrópolis",
+      "city": "São Bernardo do Campo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "908",
+      "name": "CHECKMAT RIO PRETO",
+      "teacher": "Rafael Roberto Sivieri",
+      "phones": [
+        "17 997033332"
+      ],
+      "website": "fokarafael@gmail.com",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Saad K.Saad Aboujaude n SA",
+      "neighborhood": "Jardim Francisco Fernandes",
+      "city": "São José do Rio Preto",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "469",
+      "name": "Checkmat SM",
+      "teacher": "Almir Vidal",
+      "phones": [
+        "14997573444"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "CEL RODRIGUES SIMOES 404",
+      "neighborhood": "CENTRO",
+      "city": "SÃO MANUEL",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "523",
+      "name": "Checkmat Clelia",
+      "teacher": "Rafael de Alencar Bonfim",
+      "phones": [
+        "11996459787"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Clelia 2001",
+      "neighborhood": "LAPA",
+      "city": "Sao Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "270",
+      "name": "Checkmat Arena School Figth",
+      "teacher": "Vantuil Tomé da silva ( Tyson )",
+      "phones": [
+        "11979856466",
+        "11 97985-7466"
+      ],
+      "website": "https://www.arenaschoolfight.com.br/",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Ministro Gastão Mesquita 505",
+      "neighborhood": "Perdizes",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "761",
+      "name": "Checkmat Bluefit Frei Caneca",
+      "teacher": "Felipe Nunes Catarino",
+      "phones": [
+        "(11) 97401-9969"
+      ],
+      "website": "@bluefitfreicaneca | @bluefit.viladasmerces",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Frei Caneca, 1173",
+      "neighborhood": "Consolação",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "760",
+      "name": "Checkmat Bluefit Maria Antônia.",
+      "teacher": "Caio Cozzi Callado",
+      "phones": [
+        "(11) 9 9960-8535"
+      ],
+      "website": "@bluefitmariaantonia",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Maria Antônia, 162,",
+      "neighborhood": "Vila Buarque",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "759",
+      "name": "Checkmat Bluefit Perdizes",
+      "teacher": "Caio Cozzi Callado",
+      "phones": [
+        "(11) 9 9960-8535"
+      ],
+      "website": "@bluefitperdizes",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Paraguaçu, 251",
+      "neighborhood": "Perdizes",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "764",
+      "name": "Checkmat Bluefit Vila das Mercês",
+      "teacher": "Felipe Nunes Catarino",
+      "phones": [
+        "(11) 97401-9969",
+        "(11) 97491-9969"
+      ],
+      "website": "@bluefit.viladasmerces",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Nossa Senhora das Mercês",
+      "neighborhood": "Vila das Mercês",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "816",
+      "name": "Checkmat Campo Limpo",
+      "teacher": "Rodrigo Antônio Biaggioni",
+      "phones": [
+        "(11) 96064-6636",
+        "(11) 97723-5850"
+      ],
+      "website": "@checkmat_campolimpo",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Vicente Pinheiro, 155 - Jardim Helga",
+      "neighborhood": "Campo Limpo",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "758",
+      "name": "Checkmat Higienópolis HQ",
+      "teacher": "Caio Cozzi Callado",
+      "phones": [
+        "(11) 3826-4434",
+        "(11) 9 9960-8535"
+      ],
+      "website": "@checkmathigienopolishq",
+      "facebook": "",
+      "instagram": "",
+      "address": "Martim Francisco, 291",
+      "neighborhood": "Santa Cecília",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "499",
+      "name": "Checkmat Lapa SP",
+      "teacher": "Leandro Pinheiro Siqueira Zangado",
+      "phones": [
+        "11 948083911"
+      ],
+      "website": "@checkmatlapa",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Clelia, 601",
+      "neighborhood": "Lapa",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "475",
+      "name": "Checkmat Penha",
+      "teacher": "Renato Andrade, Marcos Yamada e Toni",
+      "phones": [
+        "11 9997523080",
+        "11 947344556"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Cangaiba, 2778",
+      "neighborhood": "Penha",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "468",
+      "name": "Checkmat Toco da Luta",
+      "teacher": "Adriano de Sousa Nascimento",
+      "phones": [
+        "11964054449"
+      ],
+      "website": "@tocadaluta",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Domenico Lanzetti, 29",
+      "neighborhood": "Jd São Norberto",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "728",
+      "name": "Checkmat Wave Jiu-jitsu",
+      "teacher": "Rogério Batista",
+      "phones": [
+        "(11) 9 4180-7161"
+      ],
+      "website": "@wave_Jiu-jitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Professor Hermogenes Leitão Filho 1455",
+      "neighborhood": "Parelheiros",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "226",
+      "name": "Checkmat Carlos BJJ",
+      "teacher": "Carlos Jose Alves Dos Santos",
+      "phones": [
+        "(13) 97421-6189"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Desembargador Thrazybulo Pereira de Albuquerque num.756",
+      "neighborhood": "Humaita",
+      "city": "Sao Vicente",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "241",
+      "name": "Checkmat RCBJJ - CT Spartan Fight Club",
+      "teacher": "Willy Senra de Azevedo",
+      "phones": [
+        "(16)991326608"
+      ],
+      "website": "https://ct-spartan-fight-club.business.site",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Cel. Francisco Schmidt 1891 2° piso.",
+      "neighborhood": "Centro",
+      "city": "Sertãozinho",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "42",
+      "name": "Checkmat Academia One",
+      "teacher": "Rodrigo José Calixto e Christian Keller",
+      "phones": [
+        "(15) 33182199"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av Nogueira Padilha, 1011",
+      "neighborhood": "Vila Hortência",
+      "city": "Sorocaba",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "470",
+      "name": "CheckMat Roberio Freitas Jiu-Jitsu",
+      "teacher": "Roberio Freitas do Nascimento",
+      "phones": [
+        "11 91705-0507"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Santa Luzia, 95",
+      "neighborhood": "Vila Santa Luzia",
+      "city": "Taboão da Serra",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "655",
+      "name": "Checkmat Taboa da Serra",
+      "teacher": "Vagner Kuroiwa",
+      "phones": [
+        "11 97723-5850"
+      ],
+      "website": "@checkmat_taboao",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua João Batista de Oliveira, 130",
+      "neighborhood": "Centro",
+      "city": "Taboão da Serra",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "291",
+      "name": "Checkmat Instituto de Artes Marciais Bushidô",
+      "teacher": "Ivan Tureck De Moraes",
+      "phones": [
+        "15 997272186"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Onze de Agosto Nº 2126",
+      "neighborhood": "Jardim Lucila",
+      "city": "Tatuí",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "805",
+      "name": "Checkmat Uchoa",
+      "teacher": "Rafael Montagner Marassa",
+      "phones": [
+        "(11) 9 6414-4955"
+      ],
+      "website": "@checkmat_uchoa",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Deonindo Rodrigues Castanheira, 135",
+      "neighborhood": "Das Mangueiras",
+      "city": "Uchoa",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "197",
+      "name": "Checkmat Varzea",
+      "teacher": "Welington Rodrigues da Silva",
+      "phones": [
+        "11 99850-0816"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "R. Luis Prenholato, 15",
+      "neighborhood": "Jardim Promeca",
+      "city": "Varzea Paulista",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "799",
+      "name": "Checkmat BJJ ART",
+      "teacher": "Wanderson Silvério Barbosa",
+      "phones": [
+        "(11) 9 3360-8785"
+      ],
+      "website": "@w.shirr",
+      "facebook": "",
+      "instagram": "",
+      "address": "Rua Joaquim Ignácio Nogueira, 2923 - SALÃO",
+      "neighborhood": "Pozzobon",
+      "city": "Votuporanga",
+      "country": "Brasil",
+      "state": "SP"
+    },
+    {
+      "id": "872",
+      "name": "Checkmat Ugarte jiu-jitsu",
+      "teacher": "Ivan Andres Ugarte Mella",
+      "phones": [
+        "569 36682021"
+      ],
+      "website": "@ugartejiujitsu",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Arthuro Prat, 321",
+      "neighborhood": "Concepcion",
+      "city": "Bío Bío",
+      "country": "Chile",
+      "state": ""
+    },
+    {
+      "id": "818",
+      "name": "Checkmat Academia VZ",
+      "teacher": "Victor Zuñiga Martinez",
+      "phones": [
+        "+569 65052632"
+      ],
+      "website": "@academia_vz",
+      "facebook": "",
+      "instagram": "",
+      "address": "Fundacion Ñuke Mapu. - Sector 6 -",
+      "neighborhood": "San Jorge Comuna, Region Metropolitana",
+      "city": "San Bernardo",
+      "country": "Chile",
+      "state": "CHL"
+    },
+    {
+      "id": "828",
+      "name": "Checkmat Santa Cruz",
+      "teacher": "José Jara Sotelo",
+      "phones": [
+        "+56 9 9409 2777"
+      ],
+      "website": "@bjj.checkmatsantacruz",
+      "facebook": "",
+      "instagram": "",
+      "address": "Avenida Diego Portales",
+      "neighborhood": "",
+      "city": "Santa Cruz",
+      "country": "Chile",
+      "state": "CHL"
+    },
+    {
+      "id": "774",
+      "name": "Checkmat Legado Jiu-Jitsu",
+      "teacher": "Pablo Manuel Ramírez Mena",
+      "phones": [
+        "+56 9 9564-4812"
+      ],
+      "website": "@Legadojiujitsu_oficial",
+      "facebook": "",
+      "instagram": "",
+      "address": "Santa Marta de Huechuraba, 6741",
+      "neighborhood": "Liga La Reina",
+      "city": "Santiago",
+      "country": "Chile",
+      "state": "CHL"
+    },
+    {
+      "id": "292",
+      "name": "Checkmat Providencia",
+      "teacher": "Cleiton Ferreira Silva",
+      "phones": [
+        "(56) 6223-3639",
+        "(56) 96223-3639"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Av. Eliodoro Yañez, 2290",
+      "neighborhood": "Providencia",
+      "city": "Santiago",
+      "country": "Chile",
+      "state": "CHL"
+    },
+    {
+      "id": "691",
+      "name": "Checkmat KA Brazilian Jiu Jitsu",
+      "teacher": "Juan David Cardenas Perez",
+      "phones": [
+        "+57 311 649 6578"
+      ],
+      "website": "https://www.kabjj.net/",
+      "facebook": "",
+      "instagram": "",
+      "address": "Carrera 26 # 53a-67",
+      "neighborhood": "La Arboleda",
+      "city": "Manizales",
+      "country": "Colômbia",
+      "state": "Caldas"
+    },
+    {
+      "id": "82",
+      "name": "Checkmat La Torita Bjj / Kaeru JiuJitsu",
+      "teacher": "Stephanie Bragayrac y Lira González",
+      "phones": [
+        "+595 (981) 745695"
+      ],
+      "website": "@latoritabjj y @teamkaerubjj",
+      "facebook": "",
+      "instagram": "",
+      "address": "Francisco Goya casi Soldado Paraguay",
+      "neighborhood": "Jara",
+      "city": "Asuncion",
+      "country": "Paraguai",
+      "state": "PY"
+    },
+    {
+      "id": "832",
+      "name": "Checkmat Paraguay",
+      "teacher": "Guillermo Hansen",
+      "phones": [
+        "(59) 5991297470"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Valois Rivarola c/ Gral. Santos",
+      "neighborhood": "001204",
+      "city": "Asuncion",
+      "country": "Paraguai",
+      "state": "PY"
+    },
+    {
+      "id": "83",
+      "name": "Checkmat Yuuki Dojo",
+      "teacher": "José Luis Vallejos Blasco / Oscar Gini / Ernesto Brusquetti",
+      "phones": [
+        "595 992293881"
+      ],
+      "website": "",
+      "facebook": "",
+      "instagram": "",
+      "address": "Dr. Ernesto Quesada entre Cruz Del Chaco, Asunción, Paraguay 1411 - La Gran Manzana, Paseo Comercial",
+      "neighborhood": "",
+      "city": "Asuncion",
+      "country": "Paraguai",
+      "state": "PY"
+    },
+    {
+      "id": "790",
+      "name": "Checkmat MC bjj",
+      "teacher": "Francisco Augusto Cardozo Paredes",
+      "phones": [
+        "595 971225547",
+        "595 975772237"
+      ],
+      "website": "@mc_jiujitsu_",
+      "facebook": "",
+      "instagram": "",
+      "address": "Ybera",
+      "neighborhood": "Cambyreta",
+      "city": "Encarnacion",
+      "country": "Paraguai",
+      "state": "PY"
+    }
+  ],
+  "coverage": {
+    "selectorCombinations": 252,
+    "uniquePublishedRecords": 402,
+    "counterDifference": 2,
+    "allSelectorLocationsCovered": true
+  }
+}
