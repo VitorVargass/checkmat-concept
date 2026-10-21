@@ -1,0 +1,8 @@
+.git
+.preview
+.sites-runtime
+.openai
+docs
+scripts
+*.zip
+*.tar.gz

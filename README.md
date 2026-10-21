@@ -2,6 +2,10 @@
 
 Conceito independente de uma página, em português, com layout responsivo, catálogo de academias, contatos e links de endereço no mapa, menu mobile e abas de jornada de treino.
 
+## Hospedagem na Vercel
+
+O projeto inclui vercel.json, com Framework Other, sem instalação ou build e publicação da pasta dist. Instruções completas em docs/publicar-vercel.md. Não há variáveis de ambiente obrigatórias.
+
 ## Catálogo de filiais
 
 O diretório usa `dist/data/branches.json`, extraído do catálogo público em 8 de outubro de 2026. Foram percorridas todas as 252 combinações de país, estado e cidade dos selects originais, com deduplicação por ID_FILIAL.

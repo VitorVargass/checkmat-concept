@@ -1,3 +1,5 @@
 .preview/
 .sites-runtime/
 *.tar.gz
+.vercel/
+*.zip
